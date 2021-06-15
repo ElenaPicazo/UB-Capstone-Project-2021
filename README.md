@@ -1,1 +1,1 @@
-# UB-Capstone-Project-2021
+# UB Capstone Project 2021
