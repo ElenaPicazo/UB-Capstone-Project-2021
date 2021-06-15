@@ -1,0 +1,1190 @@
+Año;Mes;Mesid;Tipo barco;idtipobarco;Cabotajeoexterior;Idcabotajeoexterior;Escalas;ESC GT
+2015;201501;1;Tancs;11;Cabotatge;C;8;68.596
+2015;201501;1;Tancs;11;Exterior;E;61;1.150.309
+2015;201501;1;Granelers;12;Exterior;E;14;242.373
+2015;201501;1;Càrrega (Lo-Lo);13;Cabotatge;C;1;4.942
+2015;201501;1;Càrrega (Lo-Lo);13;Exterior;E;46;215.315
+2015;201501;1;Petroliers;14;Exterior;E;3;113.541
+2015;201501;1;Transbordadors;15;Cabotatge;C;99;2.329.008
+2015;201501;1;Transbordadors;15;Exterior;E;62;2.540.938
+2015;201501;1;Passatge;16;Exterior;E;25;2.573.507
+2015;201501;1;Portacontenidors;17;Cabotatge;C;22;248.255
+2015;201501;1;Portacontenidors;17;Exterior;E;140;5.854.741
+2015;201501;1;Ro-Ro;20;Cabotatge;C;5;52.355
+2015;201501;1;Ro-Ro;20;Exterior;E;24;814.352
+2015;201501;1;Car-carrier;21;Cabotatge;C;4;60.896
+2015;201501;1;Car-carrier;21;Exterior;E;39;1.519.344
+2015;201502;2;Tancs;11;Cabotatge;C;3;17.061
+2015;201502;2;Tancs;11;Exterior;E;50;931.128
+2015;201502;2;Granelers;12;Cabotatge;C;1;19.712
+2015;201502;2;Granelers;12;Exterior;E;10;269.849
+2015;201502;2;Càrrega (Lo-Lo);13;Cabotatge;C;2;7.790
+2015;201502;2;Càrrega (Lo-Lo);13;Exterior;E;32;114.027
+2015;201502;2;Petroliers;14;Exterior;E;2;52.353
+2015;201502;2;Transbordadors;15;Cabotatge;C;97;2.065.263
+2015;201502;2;Transbordadors;15;Exterior;E;66;2.644.708
+2015;201502;2;Passatge;16;Exterior;E;18;1.939.994
+2015;201502;2;Portacontenidors;17;Cabotatge;C;24;362.674
+2015;201502;2;Portacontenidors;17;Exterior;E;128;5.760.611
+2015;201502;2;Ro-Ro;20;Cabotatge;C;2;20.942
+2015;201502;2;Ro-Ro;20;Exterior;E;25;768.162
+2015;201502;2;Car-carrier;21;Cabotatge;C;4;60.896
+2015;201502;2;Car-carrier;21;Exterior;E;44;1.951.221
+2015;201503;3;Tancs;11;Cabotatge;C;3;35.656
+2015;201503;3;Tancs;11;Exterior;E;65;917.723
+2015;201503;3;Granelers;12;Exterior;E;5;170.587
+2015;201503;3;Càrrega (Lo-Lo);13;Cabotatge;C;1;4.942
+2015;201503;3;Càrrega (Lo-Lo);13;Exterior;E;48;192.009
+2015;201503;3;Petroliers;14;Exterior;E;5;341.781
+2015;201503;3;Transbordadors;15;Cabotatge;C;108;2.432.976
+2015;201503;3;Transbordadors;15;Exterior;E;73;2.936.447
+2015;201503;3;Passatge;16;Cabotatge;C;1;15.067
+2015;201503;3;Passatge;16;Exterior;E;25;2.645.542
+2015;201503;3;Portacontenidors;17;Cabotatge;C;24;356.531
+2015;201503;3;Portacontenidors;17;Exterior;E;151;6.597.037
+2015;201503;3;Ro-Ro;20;Cabotatge;C;6;83.353
+2015;201503;3;Ro-Ro;20;Exterior;E;35;1.220.805
+2015;201503;3;Car-carrier;21;Cabotatge;C;4;60.896
+2015;201503;3;Car-carrier;21;Exterior;E;50;2.176.282
+2015;201504;4;Tancs;11;Cabotatge;C;5;38.576
+2015;201504;4;Tancs;11;Exterior;E;57;917.567
+2015;201504;4;Granelers;12;Exterior;E;9;258.045
+2015;201504;4;Càrrega (Lo-Lo);13;Cabotatge;C;2;8.738
+2015;201504;4;Càrrega (Lo-Lo);13;Exterior;E;47;210.653
+2015;201504;4;Petroliers;14;Exterior;E;4;218.390
+2015;201504;4;Transbordadors;15;Cabotatge;C;117;2.720.197
+2015;201504;4;Transbordadors;15;Exterior;E;72;2.916.417
+2015;201504;4;Passatge;16;Cabotatge;C;7;330.362
+2015;201504;4;Passatge;16;Exterior;E;72;5.881.892
+2015;201504;4;Portacontenidors;17;Cabotatge;C;28;534.246
+2015;201504;4;Portacontenidors;17;Exterior;E;161;6.719.780
+2015;201504;4;Ro-Ro;20;Cabotatge;C;7;73.297
+2015;201504;4;Ro-Ro;20;Exterior;E;31;880.590
+2015;201504;4;Car-carrier;21;Cabotatge;C;5;76.120
+2015;201504;4;Car-carrier;21;Exterior;E;48;2.031.948
+2015;201505;5;Tancs;11;Cabotatge;C;8;48.729
+2015;201505;5;Tancs;11;Exterior;E;65;1.026.320
+2015;201505;5;Granelers;12;Exterior;E;11;323.729
+2015;201505;5;Càrrega (Lo-Lo);13;Cabotatge;C;1;3.911
+2015;201505;5;Càrrega (Lo-Lo);13;Exterior;E;57;250.043
+2015;201505;5;Petroliers;14;Exterior;E;4;207.161
+2015;201505;5;Transbordadors;15;Cabotatge;C;119;2.987.440
+2015;201505;5;Transbordadors;15;Exterior;E;76;3.059.541
+2015;201505;5;Passatge;16;Cabotatge;C;5;327.266
+2015;201505;5;Passatge;16;Exterior;E;90;7.819.084
+2015;201505;5;Portacontenidors;17;Cabotatge;C;20;227.863
+2015;201505;5;Portacontenidors;17;Exterior;E;174;6.940.252
+2015;201505;5;Ro-Ro;20;Cabotatge;C;8;178.903
+2015;201505;5;Ro-Ro;20;Exterior;E;37;1.248.823
+2015;201505;5;Car-carrier;21;Cabotatge;C;5;81.112
+2015;201505;5;Car-carrier;21;Exterior;E;56;2.324.151
+2015;201506;6;Tancs;11;Cabotatge;C;4;24.595
+2015;201506;6;Tancs;11;Exterior;E;63;958.744
+2015;201506;6;Granelers;12;Exterior;E;7;235.315
+2015;201506;6;Càrrega (Lo-Lo);13;Cabotatge;C;3;10.537
+2015;201506;6;Càrrega (Lo-Lo);13;Exterior;E;55;293.318
+2015;201506;6;Petroliers;14;Exterior;E;3;146.802
+2015;201506;6;Transbordadors;15;Cabotatge;C;150;3.989.946
+2015;201506;6;Transbordadors;15;Exterior;E;77;3.040.756
+2015;201506;6;Passatge;16;Cabotatge;C;4;62.184
+2015;201506;6;Passatge;16;Exterior;E;64;6.376.496
+2015;201506;6;Portacontenidors;17;Cabotatge;C;20;194.170
+2015;201506;6;Portacontenidors;17;Exterior;E;163;7.401.532
+2015;201506;6;Ro-Ro;20;Cabotatge;C;5;120.099
+2015;201506;6;Ro-Ro;20;Exterior;E;32;1.055.375
+2015;201506;6;Car-carrier;21;Cabotatge;C;5;82.039
+2015;201506;6;Car-carrier;21;Exterior;E;53;2.129.211
+2015;201507;7;Tancs;11;Cabotatge;C;8;135.066
+2015;201507;7;Tancs;11;Exterior;E;59;813.887
+2015;201507;7;Granelers;12;Cabotatge;C;1;14.116
+2015;201507;7;Granelers;12;Exterior;E;7;179.239
+2015;201507;7;Càrrega (Lo-Lo);13;Cabotatge;C;3;16.778
+2015;201507;7;Càrrega (Lo-Lo);13;Exterior;E;35;156.575
+2015;201507;7;Petroliers;14;Exterior;E;4;217.308
+2015;201507;7;Transbordadors;15;Cabotatge;C;199;4.767.730
+2015;201507;7;Transbordadors;15;Exterior;E;85;3.350.105
+2015;201507;7;Passatge;16;Cabotatge;C;1;68.870
+2015;201507;7;Passatge;16;Exterior;E;67;6.627.704
+2015;201507;7;Portacontenidors;17;Cabotatge;C;28;395.906
+2015;201507;7;Portacontenidors;17;Exterior;E;154;7.406.479
+2015;201507;7;Ro-Ro;20;Cabotatge;C;9;157.545
+2015;201507;7;Ro-Ro;20;Exterior;E;29;1.033.160
+2015;201507;7;Car-carrier;21;Cabotatge;C;5;76.120
+2015;201507;7;Car-carrier;21;Exterior;E;47;1.825.910
+2015;201508;8;Tancs;11;Cabotatge;C;3;16.899
+2015;201508;8;Tancs;11;Exterior;E;60;804.776
+2015;201508;8;Granelers;12;Exterior;E;7;204.126
+2015;201508;8;Càrrega (Lo-Lo);13;Cabotatge;C;2;5.580
+2015;201508;8;Càrrega (Lo-Lo);13;Exterior;E;45;191.096
+2015;201508;8;Petroliers;14;Exterior;E;2;127.420
+2015;201508;8;Transbordadors;15;Cabotatge;C;207;4.829.136
+2015;201508;8;Transbordadors;15;Exterior;E;77;3.065.214
+2015;201508;8;Passatge;16;Cabotatge;C;1;17.235
+2015;201508;8;Passatge;16;Exterior;E;75;7.435.645
+2015;201508;8;Portacontenidors;17;Cabotatge;C;25;294.036
+2015;201508;8;Portacontenidors;17;Exterior;E;155;7.149.842
+2015;201508;8;Ro-Ro;20;Cabotatge;C;5;87.525
+2015;201508;8;Ro-Ro;20;Exterior;E;30;1.044.275
+2015;201508;8;Car-carrier;21;Cabotatge;C;3;46.809
+2015;201508;8;Car-carrier;21;Exterior;E;37;1.875.712
+2015;201509;9;Tancs;11;Cabotatge;C;9;71.085
+2015;201509;9;Tancs;11;Exterior;E;62;1.252.451
+2015;201509;9;Granelers;12;Exterior;E;10;293.056
+2015;201509;9;Càrrega (Lo-Lo);13;Cabotatge;C;2;10.670
+2015;201509;9;Càrrega (Lo-Lo);13;Exterior;E;48;239.283
+2015;201509;9;Petroliers;14;Cabotatge;C;1;7.313
+2015;201509;9;Petroliers;14;Exterior;E;3;127.321
+2015;201509;9;Transbordadors;15;Cabotatge;C;164;4.245.219
+2015;201509;9;Transbordadors;15;Exterior;E;84;3.291.204
+2015;201509;9;Passatge;16;Cabotatge;C;5;223.816
+2015;201509;9;Passatge;16;Exterior;E;80;7.324.396
+2015;201509;9;Portacontenidors;17;Cabotatge;C;27;311.769
+2015;201509;9;Portacontenidors;17;Exterior;E;147;7.109.350
+2015;201509;9;Ro-Ro;20;Cabotatge;C;4;70.020
+2015;201509;9;Ro-Ro;20;Exterior;E;36;1.189.372
+2015;201509;9;Car-carrier;21;Cabotatge;C;5;97.721
+2015;201509;9;Car-carrier;21;Exterior;E;47;1.745.432
+2015;201510;10;Tancs;11;Cabotatge;C;11;79.783
+2015;201510;10;Tancs;11;Exterior;E;62;848.096
+2015;201510;10;Granelers;12;Exterior;E;12;334.089
+2015;201510;10;Càrrega (Lo-Lo);13;Cabotatge;C;5;31.256
+2015;201510;10;Càrrega (Lo-Lo);13;Exterior;E;40;151.450
+2015;201510;10;Petroliers;14;Exterior;E;2;201.421
+2015;201510;10;Transbordadors;15;Cabotatge;C;131;3.307.357
+2015;201510;10;Transbordadors;15;Exterior;E;74;2.988.772
+2015;201510;10;Passatge;16;Cabotatge;C;7;166.867
+2015;201510;10;Passatge;16;Exterior;E;108;9.394.004
+2015;201510;10;Portacontenidors;17;Cabotatge;C;27;284.794
+2015;201510;10;Portacontenidors;17;Exterior;E;161;6.795.836
+2015;201510;10;Ro-Ro;20;Cabotatge;C;5;85.244
+2015;201510;10;Ro-Ro;20;Exterior;E;37;1.224.643
+2015;201510;10;Car-carrier;21;Cabotatge;C;4;58.784
+2015;201510;10;Car-carrier;21;Exterior;E;59;2.348.768
+2015;201511;11;Tancs;11;Cabotatge;C;5;23.383
+2015;201511;11;Tancs;11;Exterior;E;56;967.490
+2015;201511;11;Granelers;12;Exterior;E;9;278.182
+2015;201511;11;Càrrega (Lo-Lo);13;Cabotatge;C;2;12.362
+2015;201511;11;Càrrega (Lo-Lo);13;Exterior;E;42;242.079
+2015;201511;11;Petroliers;14;Exterior;E;7;344.965
+2015;201511;11;Transbordadors;15;Cabotatge;C;120;2.846.452
+2015;201511;11;Transbordadors;15;Exterior;E;70;2.821.984
+2015;201511;11;Passatge;16;Cabotatge;C;6;296.865
+2015;201511;11;Passatge;16;Exterior;E;62;6.057.669
+2015;201511;11;Portacontenidors;17;Cabotatge;C;27;360.445
+2015;201511;11;Portacontenidors;17;Exterior;E;150;6.318.688
+2015;201511;11;Ro-Ro;20;Cabotatge;C;9;148.421
+2015;201511;11;Ro-Ro;20;Exterior;E;39;1.320.051
+2015;201511;11;Car-carrier;21;Cabotatge;C;1;13.112
+2015;201511;11;Car-carrier;21;Exterior;E;39;1.676.803
+2015;201512;12;Tancs;11;Cabotatge;C;10;95.545
+2015;201512;12;Tancs;11;Exterior;E;68;1.025.477
+2015;201512;12;Granelers;12;Exterior;E;13;375.362
+2015;201512;12;Càrrega (Lo-Lo);13;Cabotatge;C;1;2.998
+2015;201512;12;Càrrega (Lo-Lo);13;Exterior;E;52;253.298
+2015;201512;12;Petroliers;14;Cabotatge;C;1;43.357
+2015;201512;12;Petroliers;14;Exterior;E;6;419.501
+2015;201512;12;Transbordadors;15;Cabotatge;C;127;3.194.444
+2015;201512;12;Transbordadors;15;Exterior;E;63;2.605.140
+2015;201512;12;Passatge;16;Cabotatge;C;1;68.870
+2015;201512;12;Passatge;16;Exterior;E;26;2.624.321
+2015;201512;12;Portacontenidors;17;Cabotatge;C;29;337.476
+2015;201512;12;Portacontenidors;17;Exterior;E;160;6.619.160
+2015;201512;12;Ro-Ro;20;Cabotatge;C;9;148.421
+2015;201512;12;Ro-Ro;20;Exterior;E;47;1.564.150
+2015;201512;12;Car-carrier;21;Cabotatge;C;3;112.029
+2015;201512;12;Car-carrier;21;Exterior;E;51;1.992.742
+2016;201601;1;Tancs;11;Cabotatge;C;8;63.301
+2016;201601;1;Tancs;11;Exterior;E;53;902.859
+2016;201601;1;Granelers;12;Exterior;E;8;226.838
+2016;201601;1;Càrrega (Lo-Lo);13;Cabotatge;C;4;17.953
+2016;201601;1;Càrrega (Lo-Lo);13;Exterior;E;43;180.891
+2016;201601;1;Petroliers;14;Exterior;E;3;225.986
+2016;201601;1;Transbordadors;15;Cabotatge;C;119;3.165.689
+2016;201601;1;Transbordadors;15;Exterior;E;54;2.488.021
+2016;201601;1;Passatge;16;Exterior;E;16;1.861.036
+2016;201601;1;Portacontenidors;17;Cabotatge;C;20;264.652
+2016;201601;1;Portacontenidors;17;Exterior;E;149;6.495.168
+2016;201601;1;Ro-Ro;20;Cabotatge;C;8;130.916
+2016;201601;1;Ro-Ro;20;Exterior;E;60;1.853.882
+2016;201601;1;Car-carrier;21;Cabotatge;C;2;35.581
+2016;201601;1;Car-carrier;21;Exterior;E;31;1.459.305
+2016;201602;2;Tancs;11;Cabotatge;C;10;102.684
+2016;201602;2;Tancs;11;Exterior;E;57;941.353
+2016;201602;2;Granelers;12;Exterior;E;6;147.004
+2016;201602;2;Càrrega (Lo-Lo);13;Cabotatge;C;3;18.640
+2016;201602;2;Càrrega (Lo-Lo);13;Exterior;E;41;166.660
+2016;201602;2;Petroliers;14;Exterior;E;4;98.863
+2016;201602;2;Transbordadors;15;Cabotatge;C;121;3.272.351
+2016;201602;2;Transbordadors;15;Exterior;E;40;1.889.766
+2016;201602;2;Passatge;16;Exterior;E;19;2.265.098
+2016;201602;2;Portacontenidors;17;Cabotatge;C;21;329.184
+2016;201602;2;Portacontenidors;17;Exterior;E;160;6.562.339
+2016;201602;2;Ro-Ro;20;Cabotatge;C;8;130.916
+2016;201602;2;Ro-Ro;20;Exterior;E;59;1.945.825
+2016;201602;2;Car-carrier;21;Cabotatge;C;1;16.361
+2016;201602;2;Car-carrier;21;Exterior;E;42;1.804.271
+2016;201603;3;Tancs;11;Cabotatge;C;11;101.979
+2016;201603;3;Tancs;11;Exterior;E;73;1.295.196
+2016;201603;3;Granelers;12;Exterior;E;17;453.835
+2016;201603;3;Càrrega (Lo-Lo);13;Cabotatge;C;2;6.162
+2016;201603;3;Càrrega (Lo-Lo);13;Exterior;E;44;207.168
+2016;201603;3;Petroliers;14;Exterior;E;1;7.884
+2016;201603;3;Transbordadors;15;Cabotatge;C;138;3.594.067
+2016;201603;3;Transbordadors;15;Exterior;E;48;2.050.547
+2016;201603;3;Passatge;16;Cabotatge;C;1;155.873
+2016;201603;3;Passatge;16;Exterior;E;23;2.581.562
+2016;201603;3;Portacontenidors;17;Cabotatge;C;27;375.655
+2016;201603;3;Portacontenidors;17;Exterior;E;161;6.901.149
+2016;201603;3;Ro-Ro;20;Cabotatge;C;16;261.642
+2016;201603;3;Ro-Ro;20;Exterior;E;65;2.131.282
+2016;201603;3;Car-carrier;21;Cabotatge;C;1;13.112
+2016;201603;3;Car-carrier;21;Exterior;E;58;2.500.085
+2016;201604;4;Tancs;11;Cabotatge;C;9;101.565
+2016;201604;4;Tancs;11;Exterior;E;56;928.730
+2016;201604;4;Granelers;12;Exterior;E;10;288.791
+2016;201604;4;Càrrega (Lo-Lo);13;Cabotatge;C;3;21.949
+2016;201604;4;Càrrega (Lo-Lo);13;Exterior;E;45;190.912
+2016;201604;4;Petroliers;14;Exterior;E;1;7.891
+2016;201604;4;Transbordadors;15;Cabotatge;C;137;3.618.661
+2016;201604;4;Transbordadors;15;Exterior;E;61;2.689.483
+2016;201604;4;Passatge;16;Cabotatge;C;7;264.936
+2016;201604;4;Passatge;16;Exterior;E;73;6.260.560
+2016;201604;4;Portacontenidors;17;Cabotatge;C;27;409.074
+2016;201604;4;Portacontenidors;17;Exterior;E;175;7.049.570
+2016;201604;4;Ro-Ro;20;Cabotatge;C;17;286.180
+2016;201604;4;Ro-Ro;20;Exterior;E;66;2.200.283
+2016;201604;4;Car-carrier;21;Cabotatge;C;1;21.143
+2016;201604;4;Car-carrier;21;Exterior;E;49;2.061.485
+2016;201605;5;Tancs;11;Cabotatge;C;12;91.169
+2016;201605;5;Tancs;11;Exterior;E;72;958.901
+2016;201605;5;Granelers;12;Exterior;E;15;342.318
+2016;201605;5;Càrrega (Lo-Lo);13;Cabotatge;C;4;17.790
+2016;201605;5;Càrrega (Lo-Lo);13;Exterior;E;60;297.484
+2016;201605;5;Petroliers;14;Exterior;E;3;224.169
+2016;201605;5;Transbordadors;15;Cabotatge;C;148;3.947.749
+2016;201605;5;Transbordadors;15;Exterior;E;55;2.457.663
+2016;201605;5;Passatge;16;Cabotatge;C;15;461.308
+2016;201605;5;Passatge;16;Exterior;E;76;6.789.197
+2016;201605;5;Portacontenidors;17;Cabotatge;C;22;328.381
+2016;201605;5;Portacontenidors;17;Exterior;E;172;7.302.512
+2016;201605;5;Ro-Ro;20;Cabotatge;C;17;308.193
+2016;201605;5;Ro-Ro;20;Exterior;E;63;2.127.639
+2016;201605;5;Car-carrier;21;Exterior;E;53;2.239.795
+2016;201606;6;Tancs;11;Cabotatge;C;9;100.062
+2016;201606;6;Tancs;11;Exterior;E;87;1.301.480
+2016;201606;6;Granelers;12;Cabotatge;C;1;13.579
+2016;201606;6;Granelers;12;Exterior;E;13;296.753
+2016;201606;6;Càrrega (Lo-Lo);13;Cabotatge;C;1;7.775
+2016;201606;6;Càrrega (Lo-Lo);13;Exterior;E;57;297.887
+2016;201606;6;Petroliers;14;Exterior;E;1;27.627
+2016;201606;6;Transbordadors;15;Cabotatge;C;164;4.268.163
+2016;201606;6;Transbordadors;15;Exterior;E;59;2.461.654
+2016;201606;6;Passatge;16;Cabotatge;C;6;520.671
+2016;201606;6;Passatge;16;Exterior;E;59;5.939.781
+2016;201606;6;Portacontenidors;17;Cabotatge;C;24;296.248
+2016;201606;6;Portacontenidors;17;Exterior;E;167;7.576.011
+2016;201606;6;Ro-Ro;20;Cabotatge;C;15;253.451
+2016;201606;6;Ro-Ro;20;Exterior;E;74;2.457.210
+2016;201606;6;Car-carrier;21;Cabotatge;C;1;13.112
+2016;201606;6;Car-carrier;21;Exterior;E;55;2.158.871
+2016;201607;7;Tancs;11;Cabotatge;C;4;48.118
+2016;201607;7;Tancs;11;Exterior;E;71;1.183.198
+2016;201607;7;Granelers;12;Exterior;E;8;169.609
+2016;201607;7;Càrrega (Lo-Lo);13;Cabotatge;C;1;7.087
+2016;201607;7;Càrrega (Lo-Lo);13;Exterior;E;47;247.028
+2016;201607;7;Petroliers;14;Exterior;E;5;349.950
+2016;201607;7;Transbordadors;15;Cabotatge;C;198;5.094.493
+2016;201607;7;Transbordadors;15;Exterior;E;59;2.608.280
+2016;201607;7;Passatge;16;Cabotatge;C;4;360.330
+2016;201607;7;Passatge;16;Exterior;E;77;7.614.980
+2016;201607;7;Portacontenidors;17;Cabotatge;C;23;349.540
+2016;201607;7;Portacontenidors;17;Exterior;E;167;7.849.150
+2016;201607;7;Ro-Ro;20;Cabotatge;C;19;321.190
+2016;201607;7;Ro-Ro;20;Exterior;E;69;2.172.317
+2016;201607;7;Car-carrier;21;Exterior;E;57;2.428.901
+2016;201608;8;Tancs;11;Cabotatge;C;6;62.776
+2016;201608;8;Tancs;11;Exterior;E;70;808.767
+2016;201608;8;Granelers;12;Exterior;E;12;283.337
+2016;201608;8;Càrrega (Lo-Lo);13;Cabotatge;C;2;9.228
+2016;201608;8;Càrrega (Lo-Lo);13;Exterior;E;54;271.804
+2016;201608;8;Petroliers;14;Exterior;E;3;163.970
+2016;201608;8;Transbordadors;15;Cabotatge;C;214;5.460.210
+2016;201608;8;Transbordadors;15;Exterior;E;67;2.811.542
+2016;201608;8;Passatge;16;Cabotatge;C;6;345.895
+2016;201608;8;Passatge;16;Exterior;E;79;7.462.293
+2016;201608;8;Portacontenidors;17;Cabotatge;C;22;230.234
+2016;201608;8;Portacontenidors;17;Exterior;E;160;7.725.467
+2016;201608;8;Ro-Ro;20;Cabotatge;C;14;240.508
+2016;201608;8;Ro-Ro;20;Exterior;E;43;1.365.233
+2016;201608;8;Car-carrier;21;Exterior;E;40;1.820.393
+2016;201609;9;Tancs;11;Cabotatge;C;10;78.235
+2016;201609;9;Tancs;11;Exterior;E;62;917.926
+2016;201609;9;Granelers;12;Cabotatge;C;1;33.033
+2016;201609;9;Granelers;12;Exterior;E;16;395.087
+2016;201609;9;Càrrega (Lo-Lo);13;Cabotatge;C;6;33.610
+2016;201609;9;Càrrega (Lo-Lo);13;Exterior;E;49;212.203
+2016;201609;9;Petroliers;14;Exterior;E;1;7.891
+2016;201609;9;Transbordadors;15;Cabotatge;C;186;4.733.777
+2016;201609;9;Transbordadors;15;Exterior;E;73;2.985.782
+2016;201609;9;Passatge;16;Cabotatge;C;8;569.406
+2016;201609;9;Passatge;16;Exterior;E;84;7.970.144
+2016;201609;9;Portacontenidors;17;Cabotatge;C;23;264.099
+2016;201609;9;Portacontenidors;17;Exterior;E;163;7.172.114
+2016;201609;9;Ro-Ro;20;Cabotatge;C;13;216.160
+2016;201609;9;Ro-Ro;20;Exterior;E;52;1.714.043
+2016;201609;9;Car-carrier;21;Cabotatge;C;1;13.112
+2016;201609;9;Car-carrier;21;Exterior;E;47;2.023.527
+2016;201610;10;Tancs;11;Cabotatge;C;4;35.570
+2016;201610;10;Tancs;11;Exterior;E;56;849.880
+2016;201610;10;Granelers;12;Exterior;E;12;272.160
+2016;201610;10;Càrrega (Lo-Lo);13;Cabotatge;C;3;11.333
+2016;201610;10;Càrrega (Lo-Lo);13;Exterior;E;53;232.923
+2016;201610;10;Petroliers;14;Exterior;E;3;166.369
+2016;201610;10;Transbordadors;15;Cabotatge;C;146;3.772.413
+2016;201610;10;Transbordadors;15;Exterior;E;77;3.112.073
+2016;201610;10;Passatge;16;Cabotatge;C;13;660.935
+2016;201610;10;Passatge;16;Exterior;E;106;9.919.428
+2016;201610;10;Portacontenidors;17;Cabotatge;C;22;307.486
+2016;201610;10;Portacontenidors;17;Exterior;E;158;7.148.866
+2016;201610;10;Ro-Ro;20;Cabotatge;C;13;218.441
+2016;201610;10;Ro-Ro;20;Exterior;E;50;1.647.728
+2016;201610;10;Car-carrier;21;Cabotatge;C;1;13.112
+2016;201610;10;Car-carrier;21;Exterior;E;57;2.441.977
+2016;201611;11;Tancs;11;Cabotatge;C;5;53.647
+2016;201611;11;Tancs;11;Exterior;E;52;748.756
+2016;201611;11;Granelers;12;Exterior;E;14;315.114
+2016;201611;11;Càrrega (Lo-Lo);13;Cabotatge;C;4;23.293
+2016;201611;11;Càrrega (Lo-Lo);13;Exterior;E;48;266.022
+2016;201611;11;Petroliers;14;Exterior;E;4;256.993
+2016;201611;11;Transbordadors;15;Cabotatge;C;149;3.876.448
+2016;201611;11;Transbordadors;15;Exterior;E;65;2.844.555
+2016;201611;11;Passatge;16;Cabotatge;C;7;252.399
+2016;201611;11;Passatge;16;Exterior;E;49;4.254.709
+2016;201611;11;Portacontenidors;17;Cabotatge;C;23;263.282
+2016;201611;11;Portacontenidors;17;Exterior;E;149;6.040.673
+2016;201611;11;Ro-Ro;20;Cabotatge;C;11;183.431
+2016;201611;11;Ro-Ro;20;Exterior;E;53;1.745.982
+2016;201611;11;Car-carrier;21;Cabotatge;C;2;26.224
+2016;201611;11;Car-carrier;21;Exterior;E;48;2.022.638
+2016;201612;12;Tancs;11;Cabotatge;C;6;89.767
+2016;201612;12;Tancs;11;Exterior;E;68;1.074.413
+2016;201612;12;Granelers;12;Exterior;E;12;365.022
+2016;201612;12;Càrrega (Lo-Lo);13;Cabotatge;C;3;18.755
+2016;201612;12;Càrrega (Lo-Lo);13;Exterior;E;52;227.940
+2016;201612;12;Petroliers;14;Exterior;E;2;140.977
+2016;201612;12;Transbordadors;15;Cabotatge;C;151;3.923.629
+2016;201612;12;Transbordadors;15;Exterior;E;71;3.000.430
+2016;201612;12;Passatge;16;Exterior;E;30;2.723.152
+2016;201612;12;Portacontenidors;17;Cabotatge;C;25;415.500
+2016;201612;12;Portacontenidors;17;Exterior;E;168;7.207.009
+2016;201612;12;Ro-Ro;20;Cabotatge;C;12;198.655
+2016;201612;12;Ro-Ro;20;Exterior;E;56;1.785.758
+2016;201612;12;Car-carrier;21;Exterior;E;46;1.990.548
+2017;201701;1;Tancs;11;Cabotatge;C;10;89.813
+2017;201701;1;Tancs;11;Exterior;E;61;1.125.895
+2017;201701;1;Granelers;12;Exterior;E;4;110.235
+2017;201701;1;Càrrega (Lo-Lo);13;Cabotatge;C;6;27.370
+2017;201701;1;Càrrega (Lo-Lo);13;Exterior;E;44;204.018
+2017;201701;1;Petroliers;14;Exterior;E;5;175.690
+2017;201701;1;Transbordadors;15;Cabotatge;C;135;3.429.851
+2017;201701;1;Transbordadors;15;Exterior;E;60;2.486.262
+2017;201701;1;Passatge;16;Exterior;E;15;1.632.841
+2017;201701;1;Portacontenidors;17;Cabotatge;C;22;317.548
+2017;201701;1;Portacontenidors;17;Exterior;E;151;6.408.290
+2017;201701;1;Ro-Ro;20;Cabotatge;C;10;156.612
+2017;201701;1;Ro-Ro;20;Exterior;E;43;1.362.100
+2017;201701;1;Car-carrier;21;Exterior;E;37;1.751.467
+2017;201702;2;Tancs;11;Cabotatge;C;9;79.320
+2017;201702;2;Tancs;11;Exterior;E;61;1.277.770
+2017;201702;2;Granelers;12;Exterior;E;10;252.761
+2017;201702;2;Càrrega (Lo-Lo);13;Cabotatge;C;4;21.741
+2017;201702;2;Càrrega (Lo-Lo);13;Exterior;E;41;205.581
+2017;201702;2;Petroliers;14;Exterior;E;4;273.983
+2017;201702;2;Transbordadors;15;Cabotatge;C;135;3.253.823
+2017;201702;2;Transbordadors;15;Exterior;E;54;2.315.250
+2017;201702;2;Passatge;16;Cabotatge;C;3;133.316
+2017;201702;2;Passatge;16;Exterior;E;16;1.721.074
+2017;201702;2;Portacontenidors;17;Cabotatge;C;19;267.709
+2017;201702;2;Portacontenidors;17;Exterior;E;163;7.613.302
+2017;201702;2;Ro-Ro;20;Cabotatge;C;8;114.569
+2017;201702;2;Ro-Ro;20;Exterior;E;44;1.448.569
+2017;201702;2;Car-carrier;21;Exterior;E;37;1.713.486
+2017;201703;3;Tancs;11;Cabotatge;C;8;129.286
+2017;201703;3;Tancs;11;Exterior;E;77;1.283.205
+2017;201703;3;Granelers;12;Exterior;E;9;313.969
+2017;201703;3;Càrrega (Lo-Lo);13;Cabotatge;C;8;30.633
+2017;201703;3;Càrrega (Lo-Lo);13;Exterior;E;55;242.140
+2017;201703;3;Petroliers;14;Exterior;E;2;123.912
+2017;201703;3;Transbordadors;15;Cabotatge;C;168;4.423.959
+2017;201703;3;Transbordadors;15;Exterior;E;55;2.418.344
+2017;201703;3;Passatge;16;Exterior;E;29;2.836.692
+2017;201703;3;Portacontenidors;17;Cabotatge;C;23;262.507
+2017;201703;3;Portacontenidors;17;Exterior;E;179;7.174.198
+2017;201703;3;Ro-Ro;20;Cabotatge;C;10;147.298
+2017;201703;3;Ro-Ro;20;Exterior;E;59;1.929.150
+2017;201703;3;Car-carrier;21;Cabotatge;C;1;51.770
+2017;201703;3;Car-carrier;21;Exterior;E;43;2.033.778
+2017;201704;4;Tancs;11;Cabotatge;C;4;62.053
+2017;201704;4;Tancs;11;Exterior;E;70;1.127.872
+2017;201704;4;Granelers;12;Cabotatge;C;1;36.311
+2017;201704;4;Granelers;12;Exterior;E;7;204.782
+2017;201704;4;Càrrega (Lo-Lo);13;Cabotatge;C;6;29.006
+2017;201704;4;Càrrega (Lo-Lo);13;Exterior;E;40;174.770
+2017;201704;4;Petroliers;14;Exterior;E;3;217.872
+2017;201704;4;Transbordadors;15;Cabotatge;C;169;4.470.230
+2017;201704;4;Transbordadors;15;Exterior;E;52;2.263.948
+2017;201704;4;Passatge;16;Cabotatge;C;9;425.352
+2017;201704;4;Passatge;16;Exterior;E;76;6.507.467
+2017;201704;4;Portacontenidors;17;Cabotatge;C;21;214.264
+2017;201704;4;Portacontenidors;17;Exterior;E;164;7.226.468
+2017;201704;4;Ro-Ro;20;Cabotatge;C;5;76.120
+2017;201704;4;Ro-Ro;20;Exterior;E;49;1.523.349
+2017;201704;4;Car-carrier;21;Exterior;E;42;1.942.917
+2017;201705;5;Tancs;11;Cabotatge;C;6;80.110
+2017;201705;5;Tancs;11;Exterior;E;74;1.085.782
+2017;201705;5;Granelers;12;Exterior;E;11;354.237
+2017;201705;5;Càrrega (Lo-Lo);13;Cabotatge;C;3;15.561
+2017;201705;5;Càrrega (Lo-Lo);13;Exterior;E;53;238.642
+2017;201705;5;Petroliers;14;Exterior;E;3;242.371
+2017;201705;5;Transbordadors;15;Cabotatge;C;204;5.048.274
+2017;201705;5;Transbordadors;15;Exterior;E;52;2.288.455
+2017;201705;5;Passatge;16;Cabotatge;C;9;446.331
+2017;201705;5;Passatge;16;Exterior;E;88;7.756.521
+2017;201705;5;Portacontenidors;17;Cabotatge;C;25;305.705
+2017;201705;5;Portacontenidors;17;Exterior;E;182;8.968.248
+2017;201705;5;Ro-Ro;20;Cabotatge;C;4;60.896
+2017;201705;5;Ro-Ro;20;Exterior;E;54;1.678.020
+2017;201705;5;Car-carrier;21;Cabotatge;C;1;36.825
+2017;201705;5;Car-carrier;21;Exterior;E;47;2.183.613
+2017;201706;6;Tancs;11;Cabotatge;C;8;119.165
+2017;201706;6;Tancs;11;Exterior;E;66;1.009.091
+2017;201706;6;Granelers;12;Exterior;E;10;280.028
+2017;201706;6;Càrrega (Lo-Lo);13;Cabotatge;C;3;14.909
+2017;201706;6;Càrrega (Lo-Lo);13;Exterior;E;41;183.590
+2017;201706;6;Petroliers;14;Exterior;E;4;268.703
+2017;201706;6;Transbordadors;15;Cabotatge;C;200;4.923.241
+2017;201706;6;Transbordadors;15;Exterior;E;64;2.697.457
+2017;201706;6;Passatge;16;Cabotatge;C;6;348.864
+2017;201706;6;Passatge;16;Exterior;E;66;6.455.310
+2017;201706;6;Portacontenidors;17;Cabotatge;C;24;338.781
+2017;201706;6;Portacontenidors;17;Exterior;E;155;7.924.350
+2017;201706;6;Ro-Ro;20;Cabotatge;C;6;95.906
+2017;201706;6;Ro-Ro;20;Exterior;E;49;1.558.598
+2017;201706;6;Car-carrier;21;Exterior;E;42;1.986.026
+2017;201707;7;Tancs;11;Cabotatge;C;10;124.231
+2017;201707;7;Tancs;11;Exterior;E;74;1.257.054
+2017;201707;7;Granelers;12;Exterior;E;14;327.477
+2017;201707;7;Càrrega (Lo-Lo);13;Exterior;E;39;192.611
+2017;201707;7;Petroliers;14;Exterior;E;3;409.725
+2017;201707;7;Transbordadors;15;Cabotatge;C;226;5.581.888
+2017;201707;7;Transbordadors;15;Exterior;E;74;3.013.835
+2017;201707;7;Passatge;16;Cabotatge;C;6;280.283
+2017;201707;7;Passatge;16;Exterior;E;68;6.699.076
+2017;201707;7;Portacontenidors;17;Cabotatge;C;25;407.645
+2017;201707;7;Portacontenidors;17;Exterior;E;198;9.500.591
+2017;201707;7;Ro-Ro;20;Cabotatge;C;11;173.245
+2017;201707;7;Ro-Ro;20;Exterior;E;54;1.596.374
+2017;201707;7;Car-carrier;21;Exterior;E;56;2.575.210
+2017;201708;8;Tancs;11;Cabotatge;C;11;102.554
+2017;201708;8;Tancs;11;Exterior;E;79;1.101.550
+2017;201708;8;Granelers;12;Exterior;E;9;299.918
+2017;201708;8;Càrrega (Lo-Lo);13;Cabotatge;C;1;5.581
+2017;201708;8;Càrrega (Lo-Lo);13;Exterior;E;44;173.131
+2017;201708;8;Petroliers;14;Exterior;E;9;785.807
+2017;201708;8;Transbordadors;15;Cabotatge;C;241;5.916.282
+2017;201708;8;Transbordadors;15;Exterior;E;77;3.136.667
+2017;201708;8;Passatge;16;Cabotatge;C;10;584.633
+2017;201708;8;Passatge;16;Exterior;E;69;6.958.762
+2017;201708;8;Portacontenidors;17;Cabotatge;C;27;421.731
+2017;201708;8;Portacontenidors;17;Exterior;E;187;9.245.077
+2017;201708;8;Ro-Ro;20;Cabotatge;C;8;125.292
+2017;201708;8;Ro-Ro;20;Exterior;E;42;1.274.861
+2017;201708;8;Car-carrier;21;Exterior;E;34;1.649.233
+2017;201709;9;Tancs;11;Cabotatge;C;7;98.238
+2017;201709;9;Tancs;11;Exterior;E;78;1.368.783
+2017;201709;9;Granelers;12;Exterior;E;13;378.091
+2017;201709;9;Càrrega (Lo-Lo);13;Cabotatge;C;2;6.441
+2017;201709;9;Càrrega (Lo-Lo);13;Exterior;E;40;188.181
+2017;201709;9;Petroliers;14;Exterior;E;4;224.044
+2017;201709;9;Transbordadors;15;Cabotatge;C;197;4.860.394
+2017;201709;9;Transbordadors;15;Exterior;E;78;3.155.549
+2017;201709;9;Passatge;16;Cabotatge;C;13;645.099
+2017;201709;9;Passatge;16;Exterior;E;86;8.050.760
+2017;201709;9;Portacontenidors;17;Cabotatge;C;21;304.361
+2017;201709;9;Portacontenidors;17;Exterior;E;191;9.157.999
+2017;201709;9;Ro-Ro;20;Cabotatge;C;7;113.411
+2017;201709;9;Ro-Ro;20;Exterior;E;52;1.595.129
+2017;201709;9;Car-carrier;21;Exterior;E;38;1.771.309
+2017;201710;10;Tancs;11;Cabotatge;C;6;100.229
+2017;201710;10;Tancs;11;Exterior;E;71;1.182.829
+2017;201710;10;Granelers;12;Exterior;E;11;369.794
+2017;201710;10;Càrrega (Lo-Lo);13;Cabotatge;C;2;6.994
+2017;201710;10;Càrrega (Lo-Lo);13;Exterior;E;51;245.709
+2017;201710;10;Petroliers;14;Exterior;E;6;437.883
+2017;201710;10;Transbordadors;15;Cabotatge;C;173;4.396.557
+2017;201710;10;Transbordadors;15;Exterior;E;68;2.771.620
+2017;201710;10;Passatge;16;Cabotatge;C;13;705.155
+2017;201710;10;Passatge;16;Exterior;E;96;9.135.746
+2017;201710;10;Portacontenidors;17;Cabotatge;C;22;310.713
+2017;201710;10;Portacontenidors;17;Exterior;E;188;9.283.578
+2017;201710;10;Ro-Ro;20;Cabotatge;C;5;76.120
+2017;201710;10;Ro-Ro;20;Exterior;E;46;1.434.448
+2017;201710;10;Car-carrier;21;Exterior;E;45;2.062.799
+2017;201711;11;Tancs;11;Cabotatge;C;7;66.982
+2017;201711;11;Tancs;11;Exterior;E;63;987.153
+2017;201711;11;Granelers;12;Exterior;E;15;430.835
+2017;201711;11;Càrrega (Lo-Lo);13;Cabotatge;C;1;2.998
+2017;201711;11;Càrrega (Lo-Lo);13;Exterior;E;49;246.914
+2017;201711;11;Petroliers;14;Exterior;E;6;340.288
+2017;201711;11;Transbordadors;15;Cabotatge;C;173;4.404.516
+2017;201711;11;Transbordadors;15;Exterior;E;53;2.288.380
+2017;201711;11;Passatge;16;Cabotatge;C;5;370.312
+2017;201711;11;Passatge;16;Exterior;E;60;5.954.370
+2017;201711;11;Portacontenidors;17;Cabotatge;C;25;564.758
+2017;201711;11;Portacontenidors;17;Exterior;E;179;8.758.480
+2017;201711;11;Ro-Ro;20;Cabotatge;C;4;60.896
+2017;201711;11;Ro-Ro;20;Exterior;E;51;1.496.902
+2017;201711;11;Car-carrier;21;Cabotatge;C;2;105.431
+2017;201711;11;Car-carrier;21;Exterior;E;44;2.038.682
+2017;201712;12;Tancs;11;Cabotatge;C;8;83.153
+2017;201712;12;Tancs;11;Exterior;E;72;1.208.293
+2017;201712;12;Granelers;12;Exterior;E;10;288.620
+2017;201712;12;Càrrega (Lo-Lo);13;Cabotatge;C;1;3.443
+2017;201712;12;Càrrega (Lo-Lo);13;Exterior;E;52;249.037
+2017;201712;12;Petroliers;14;Exterior;E;6;484.392
+2017;201712;12;Transbordadors;15;Cabotatge;C;160;4.037.531
+2017;201712;12;Transbordadors;15;Exterior;E;66;2.650.147
+2017;201712;12;Passatge;16;Cabotatge;C;3;294.038
+2017;201712;12;Passatge;16;Exterior;E;29;3.077.053
+2017;201712;12;Portacontenidors;17;Cabotatge;C;20;211.338
+2017;201712;12;Portacontenidors;17;Exterior;E;166;8.073.076
+2017;201712;12;Ro-Ro;20;Cabotatge;C;7;94.427
+2017;201712;12;Ro-Ro;20;Exterior;E;43;1.328.243
+2017;201712;12;Car-carrier;21;Exterior;E;45;2.031.998
+2018;201801;1;Tancs;11;Cabotatge;C;7;61.759
+2018;201801;1;Tancs;11;Exterior;E;69;1.253.786
+2018;201801;1;Granelers;12;Exterior;E;12;313.163
+2018;201801;1;Càrrega (Lo-Lo);13;Cabotatge;C;3;10.440
+2018;201801;1;Càrrega (Lo-Lo);13;Exterior;E;44;209.483
+2018;201801;1;Petroliers;14;Cabotatge;C;1;63.915
+2018;201801;1;Petroliers;14;Exterior;E;7;502.514
+2018;201801;1;Transbordadors;15;Cabotatge;C;174;4.412.501
+2018;201801;1;Transbordadors;15;Exterior;E;59;2.464.351
+2018;201801;1;Passatge;16;Exterior;E;23;2.553.596
+2018;201801;1;Portacontenidors;17;Cabotatge;C;24;329.354
+2018;201801;1;Portacontenidors;17;Exterior;E;174;8.865.537
+2018;201801;1;Ro-Ro;20;Cabotatge;C;5;69.087
+2018;201801;1;Ro-Ro;20;Exterior;E;51;1.531.955
+2018;201801;1;Car-carrier;21;Exterior;E;42;1.865.878
+2018;201802;2;Tancs;11;Cabotatge;C;11;86.786
+2018;201802;2;Tancs;11;Exterior;E;70;1.062.566
+2018;201802;2;Granelers;12;Exterior;E;9;293.704
+2018;201802;2;Càrrega (Lo-Lo);13;Cabotatge;C;1;5.057
+2018;201802;2;Càrrega (Lo-Lo);13;Exterior;E;47;268.078
+2018;201802;2;Petroliers;14;Exterior;E;4;269.104
+2018;201802;2;Transbordadors;15;Cabotatge;C;162;4.033.664
+2018;201802;2;Transbordadors;15;Exterior;E;49;2.147.865
+2018;201802;2;Passatge;16;Exterior;E;22;2.475.983
+2018;201802;2;Portacontenidors;17;Cabotatge;C;20;226.983
+2018;201802;2;Portacontenidors;17;Exterior;E;160;8.157.984
+2018;201802;2;Ro-Ro;20;Cabotatge;C;4;60.896
+2018;201802;2;Ro-Ro;20;Exterior;E;49;1.548.682
+2018;201802;2;Car-carrier;21;Exterior;E;41;1.807.390
+2018;201803;3;Tancs;11;Cabotatge;C;5;100.638
+2018;201803;3;Tancs;11;Exterior;E;72;1.182.886
+2018;201803;3;Granelers;12;Exterior;E;8;272.130
+2018;201803;3;Càrrega (Lo-Lo);13;Cabotatge;C;2;6.994
+2018;201803;3;Càrrega (Lo-Lo);13;Exterior;E;47;244.559
+2018;201803;3;Petroliers;14;Exterior;E;5;381.821
+2018;201803;3;Transbordadors;15;Cabotatge;C;179;4.484.221
+2018;201803;3;Transbordadors;15;Exterior;E;62;2.650.374
+2018;201803;3;Passatge;16;Cabotatge;C;1;37.049
+2018;201803;3;Passatge;16;Exterior;E;32;3.276.878
+2018;201803;3;Portacontenidors;17;Cabotatge;C;22;256.087
+2018;201803;3;Portacontenidors;17;Exterior;E;186;9.210.907
+2018;201803;3;Ro-Ro;20;Cabotatge;C;7;103.225
+2018;201803;3;Ro-Ro;20;Exterior;E;52;1.591.975
+2018;201803;3;Car-carrier;21;Exterior;E;47;2.182.225
+2018;201804;4;Tancs;11;Cabotatge;C;9;102.171
+2018;201804;4;Tancs;11;Exterior;E;63;837.988
+2018;201804;4;Granelers;12;Exterior;E;8;246.272
+2018;201804;4;Càrrega (Lo-Lo);13;Cabotatge;C;3;16.572
+2018;201804;4;Càrrega (Lo-Lo);13;Exterior;E;60;262.758
+2018;201804;4;Petroliers;14;Exterior;E;4;310.058
+2018;201804;4;Transbordadors;15;Cabotatge;C;175;4.434.928
+2018;201804;4;Transbordadors;15;Exterior;E;60;2.551.172
+2018;201804;4;Passatge;16;Cabotatge;C;15;897.812
+2018;201804;4;Passatge;16;Exterior;E;84;7.973.717
+2018;201804;4;Portacontenidors;17;Cabotatge;C;21;215.682
+2018;201804;4;Portacontenidors;17;Exterior;E;187;9.510.533
+2018;201804;4;Ro-Ro;20;Cabotatge;C;6;80.044
+2018;201804;4;Ro-Ro;20;Exterior;E;45;1.336.713
+2018;201804;4;Car-carrier;21;Cabotatge;C;2;74.427
+2018;201804;4;Car-carrier;21;Exterior;E;45;2.149.870
+2018;201805;5;Tancs;11;Cabotatge;C;4;34.848
+2018;201805;5;Tancs;11;Exterior;E;74;1.287.375
+2018;201805;5;Granelers;12;Exterior;E;11;271.071
+2018;201805;5;Càrrega (Lo-Lo);13;Cabotatge;C;1;6.204
+2018;201805;5;Càrrega (Lo-Lo);13;Exterior;E;54;232.392
+2018;201805;5;Petroliers;14;Exterior;E;7;388.506
+2018;201805;5;Transbordadors;15;Cabotatge;C;193;4.799.775
+2018;201805;5;Transbordadors;15;Exterior;E;62;2.648.473
+2018;201805;5;Passatge;16;Cabotatge;C;15;687.757
+2018;201805;5;Passatge;16;Exterior;E;79;7.915.323
+2018;201805;5;Portacontenidors;17;Cabotatge;C;26;266.637
+2018;201805;5;Portacontenidors;17;Exterior;E;186;9.426.001
+2018;201805;5;Ro-Ro;20;Cabotatge;C;5;69.087
+2018;201805;5;Ro-Ro;20;Exterior;E;57;1.615.699
+2018;201805;5;Car-carrier;21;Exterior;E;53;2.430.807
+2018;201806;6;Tancs;11;Cabotatge;C;7;76.842
+2018;201806;6;Tancs;11;Exterior;E;72;1.160.182
+2018;201806;6;Granelers;12;Exterior;E;8;257.865
+2018;201806;6;Càrrega (Lo-Lo);13;Cabotatge;C;2;10.670
+2018;201806;6;Càrrega (Lo-Lo);13;Exterior;E;42;212.224
+2018;201806;6;Petroliers;14;Exterior;E;8;436.368
+2018;201806;6;Transbordadors;15;Cabotatge;C;198;4.878.277
+2018;201806;6;Transbordadors;15;Exterior;E;69;2.878.518
+2018;201806;6;Passatge;16;Cabotatge;C;6;340.144
+2018;201806;6;Passatge;16;Exterior;E;73;7.482.424
+2018;201806;6;Portacontenidors;17;Cabotatge;C;22;253.335
+2018;201806;6;Portacontenidors;17;Exterior;E;173;8.700.655
+2018;201806;6;Ro-Ro;20;Cabotatge;C;10;145.017
+2018;201806;6;Ro-Ro;20;Exterior;E;55;1.650.689
+2018;201806;6;Car-carrier;21;Cabotatge;C;1;13.112
+2018;201806;6;Car-carrier;21;Exterior;E;39;1.708.871
+2018;201807;7;Tancs;11;Cabotatge;C;8;122.014
+2018;201807;7;Tancs;11;Exterior;E;66;1.009.546
+2018;201807;7;Granelers;12;Exterior;E;11;325.292
+2018;201807;7;Càrrega (Lo-Lo);13;Cabotatge;C;1;2.998
+2018;201807;7;Càrrega (Lo-Lo);13;Exterior;E;31;168.094
+2018;201807;7;Petroliers;14;Exterior;E;12;993.408
+2018;201807;7;Transbordadors;15;Cabotatge;C;231;5.604.910
+2018;201807;7;Transbordadors;15;Exterior;E;78;3.104.597
+2018;201807;7;Passatge;16;Cabotatge;C;4;171.451
+2018;201807;7;Passatge;16;Exterior;E;75;7.836.254
+2018;201807;7;Portacontenidors;17;Cabotatge;C;16;180.782
+2018;201807;7;Portacontenidors;17;Exterior;E;180;8.484.320
+2018;201807;7;Ro-Ro;20;Cabotatge;C;8;130.916
+2018;201807;7;Ro-Ro;20;Exterior;E;66;1.964.200
+2018;201807;7;Car-carrier;21;Exterior;E;48;2.311.481
+2018;201808;8;Tancs;11;Cabotatge;C;2;31.122
+2018;201808;8;Tancs;11;Exterior;E;59;836.869
+2018;201808;8;Granelers;12;Exterior;E;8;305.679
+2018;201808;8;Càrrega (Lo-Lo);13;Exterior;E;35;153.881
+2018;201808;8;Petroliers;14;Exterior;E;4;381.527
+2018;201808;8;Transbordadors;15;Cabotatge;C;237;5.765.480
+2018;201808;8;Transbordadors;15;Exterior;E;78;3.164.288
+2018;201808;8;Passatge;16;Cabotatge;C;7;477.100
+2018;201808;8;Passatge;16;Exterior;E;64;7.339.660
+2018;201808;8;Portacontenidors;17;Cabotatge;C;25;260.828
+2018;201808;8;Portacontenidors;17;Exterior;E;169;8.513.536
+2018;201808;8;Ro-Ro;20;Cabotatge;C;6;100.468
+2018;201808;8;Ro-Ro;20;Exterior;E;57;1.781.028
+2018;201808;8;Car-carrier;21;Cabotatge;C;2;26.224
+2018;201808;8;Car-carrier;21;Exterior;E;27;1.246.507
+2018;201809;9;Tancs;11;Cabotatge;C;7;78.171
+2018;201809;9;Tancs;11;Exterior;E;69;925.002
+2018;201809;9;Granelers;12;Exterior;E;9;271.841
+2018;201809;9;Càrrega (Lo-Lo);13;Cabotatge;C;3;17.617
+2018;201809;9;Càrrega (Lo-Lo);13;Exterior;E;43;217.125
+2018;201809;9;Petroliers;14;Exterior;E;7;531.331
+2018;201809;9;Transbordadors;15;Cabotatge;C;191;5.047.522
+2018;201809;9;Transbordadors;15;Exterior;E;78;3.106.544
+2018;201809;9;Passatge;16;Cabotatge;C;12;644.000
+2018;201809;9;Passatge;16;Exterior;E;93;9.476.645
+2018;201809;9;Portacontenidors;17;Cabotatge;C;19;199.940
+2018;201809;9;Portacontenidors;17;Exterior;E;159;7.797.698
+2018;201809;9;Ro-Ro;20;Cabotatge;C;7;105.506
+2018;201809;9;Ro-Ro;20;Exterior;E;49;1.508.430
+2018;201809;9;Car-carrier;21;Exterior;E;32;1.497.210
+2018;201810;10;Tancs;11;Cabotatge;C;8;149.923
+2018;201810;10;Tancs;11;Exterior;E;58;763.300
+2018;201810;10;Granelers;12;Exterior;E;7;241.956
+2018;201810;10;Càrrega (Lo-Lo);13;Cabotatge;C;2;9.898
+2018;201810;10;Càrrega (Lo-Lo);13;Exterior;E;45;215.134
+2018;201810;10;Petroliers;14;Exterior;E;7;558.581
+2018;201810;10;Transbordadors;15;Cabotatge;C;179;4.678.316
+2018;201810;10;Transbordadors;15;Exterior;E;65;2.736.944
+2018;201810;10;Passatge;16;Cabotatge;C;19;826.149
+2018;201810;10;Passatge;16;Exterior;E;108;10.548.616
+2018;201810;10;Portacontenidors;17;Cabotatge;C;23;233.559
+2018;201810;10;Portacontenidors;17;Exterior;E;161;7.909.191
+2018;201810;10;Ro-Ro;20;Cabotatge;C;5;69.087
+2018;201810;10;Ro-Ro;20;Exterior;E;49;1.560.937
+2018;201810;10;Car-carrier;21;Cabotatge;C;2;73.650
+2018;201810;10;Car-carrier;21;Exterior;E;44;2.149.354
+2018;201811;11;Tancs;11;Cabotatge;C;7;100.371
+2018;201811;11;Tancs;11;Exterior;E;65;1.194.809
+2018;201811;11;Granelers;12;Exterior;E;7;234.658
+2018;201811;11;Càrrega (Lo-Lo);13;Cabotatge;C;2;14.174
+2018;201811;11;Càrrega (Lo-Lo);13;Exterior;E;46;183.543
+2018;201811;11;Petroliers;14;Exterior;E;4;226.122
+2018;201811;11;Transbordadors;15;Cabotatge;C;175;4.559.074
+2018;201811;11;Transbordadors;15;Exterior;E;59;2.551.034
+2018;201811;11;Passatge;16;Cabotatge;C;7;314.250
+2018;201811;11;Passatge;16;Exterior;E;62;6.075.274
+2018;201811;11;Portacontenidors;17;Cabotatge;C;23;293.793
+2018;201811;11;Portacontenidors;17;Exterior;E;174;8.361.898
+2018;201811;11;Ro-Ro;20;Cabotatge;C;7;95.320
+2018;201811;11;Ro-Ro;20;Exterior;E;45;1.529.569
+2018;201811;11;Car-carrier;21;Cabotatge;C;1;36.825
+2018;201811;11;Car-carrier;21;Exterior;E;44;1.958.295
+2018;201812;12;Tancs;11;Cabotatge;C;12;128.201
+2018;201812;12;Tancs;11;Exterior;E;70;1.056.372
+2018;201812;12;Granelers;12;Exterior;E;10;319.023
+2018;201812;12;Càrrega (Lo-Lo);13;Cabotatge;C;1;5.574
+2018;201812;12;Càrrega (Lo-Lo);13;Exterior;E;39;179.784
+2018;201812;12;Petroliers;14;Exterior;E;7;552.479
+2018;201812;12;Transbordadors;15;Cabotatge;C;167;4.317.668
+2018;201812;12;Transbordadors;15;Exterior;E;60;2.510.453
+2018;201812;12;Passatge;16;Cabotatge;C;3;219.910
+2018;201812;12;Passatge;16;Exterior;E;25;2.447.806
+2018;201812;12;Portacontenidors;17;Cabotatge;C;21;232.333
+2018;201812;12;Portacontenidors;17;Exterior;E;166;8.076.733
+2018;201812;12;Ro-Ro;20;Cabotatge;C;5;70.496
+2018;201812;12;Ro-Ro;20;Exterior;E;36;1.108.571
+2018;201812;12;Car-carrier;21;Exterior;E;43;2.025.074
+2019;201901;1;Tancs;11;Cabotatge;C;4;40.715
+2019;201901;1;Tancs;11;Exterior;E;71;1.144.682
+2019;201901;1;Granelers;12;Exterior;E;8;232.400
+2019;201901;1;Càrrega (Lo-Lo);13;Cabotatge;C;3;18.169
+2019;201901;1;Càrrega (Lo-Lo);13;Exterior;E;47;186.696
+2019;201901;1;Petroliers;14;Exterior;E;5;230.213
+2019;201901;1;Transbordadors;15;Cabotatge;C;172;4.437.761
+2019;201901;1;Transbordadors;15;Exterior;E;63;2.503.916
+2019;201901;1;Passatge;16;Cabotatge;C;5;345.054
+2019;201901;1;Passatge;16;Exterior;E;21;2.293.466
+2019;201901;1;Portacontenidors;17;Cabotatge;C;23;244.222
+2019;201901;1;Portacontenidors;17;Exterior;E;168;8.664.979
+2019;201901;1;Ro-Ro;20;Cabotatge;C;4;60.896
+2019;201901;1;Ro-Ro;20;Exterior;E;48;1.547.966
+2019;201901;1;Car-carrier;21;Exterior;E;37;1.826.114
+2019;201902;2;Tancs;11;Cabotatge;C;2;12.439
+2019;201902;2;Tancs;11;Exterior;E;67;914.606
+2019;201902;2;Granelers;12;Exterior;E;12;361.360
+2019;201902;2;Càrrega (Lo-Lo);13;Cabotatge;C;2;9.536
+2019;201902;2;Càrrega (Lo-Lo);13;Exterior;E;47;217.463
+2019;201902;2;Petroliers;14;Exterior;E;6;458.316
+2019;201902;2;Transbordadors;15;Cabotatge;C;158;4.010.889
+2019;201902;2;Transbordadors;15;Exterior;E;55;2.092.091
+2019;201902;2;Passatge;16;Cabotatge;C;3;146.685
+2019;201902;2;Passatge;16;Exterior;E;19;2.017.084
+2019;201902;2;Portacontenidors;17;Cabotatge;C;22;303.983
+2019;201902;2;Portacontenidors;17;Exterior;E;156;7.929.496
+2019;201902;2;Ro-Ro;20;Cabotatge;C;4;60.896
+2019;201902;2;Ro-Ro;20;Exterior;E;54;1.783.926
+2019;201902;2;Car-carrier;21;Cabotatge;C;2;67.662
+2019;201902;2;Car-carrier;21;Exterior;E;40;1.901.862
+2019;201903;3;Tancs;11;Cabotatge;C;2;25.617
+2019;201903;3;Tancs;11;Exterior;E;59;861.847
+2019;201903;3;Granelers;12;Exterior;E;5;156.000
+2019;201903;3;Càrrega (Lo-Lo);13;Cabotatge;C;1;3.778
+2019;201903;3;Càrrega (Lo-Lo);13;Exterior;E;54;233.961
+2019;201903;3;Petroliers;14;Exterior;E;11;740.018
+2019;201903;3;Transbordadors;15;Cabotatge;C;175;4.586.648
+2019;201903;3;Transbordadors;15;Exterior;E;61;2.306.934
+2019;201903;3;Passatge;16;Cabotatge;C;5;238.089
+2019;201903;3;Passatge;16;Exterior;E;33;3.276.014
+2019;201903;3;Portacontenidors;17;Cabotatge;C;22;281.765
+2019;201903;3;Portacontenidors;17;Exterior;E;169;8.200.269
+2019;201903;3;Ro-Ro;20;Cabotatge;C;5;76.120
+2019;201903;3;Ro-Ro;20;Exterior;E;53;1.764.286
+2019;201903;3;Car-carrier;21;Cabotatge;C;1;33.831
+2019;201903;3;Car-carrier;21;Exterior;E;38;1.730.693
+2019;201904;4;Tancs;11;Cabotatge;C;9;94.234
+2019;201904;4;Tancs;11;Exterior;E;85;1.660.391
+2019;201904;4;Granelers;12;Exterior;E;10;283.744
+2019;201904;4;Càrrega (Lo-Lo);13;Cabotatge;C;2;12.547
+2019;201904;4;Càrrega (Lo-Lo);13;Exterior;E;45;224.864
+2019;201904;4;Petroliers;14;Exterior;E;4;174.507
+2019;201904;4;Transbordadors;15;Cabotatge;C;175;4.680.176
+2019;201904;4;Transbordadors;15;Exterior;E;61;2.355.662
+2019;201904;4;Passatge;16;Cabotatge;C;10;396.785
+2019;201904;4;Passatge;16;Exterior;E;65;6.661.018
+2019;201904;4;Portacontenidors;17;Cabotatge;C;20;211.401
+2019;201904;4;Portacontenidors;17;Exterior;E;171;8.008.287
+2019;201904;4;Ro-Ro;20;Cabotatge;C;4;60.896
+2019;201904;4;Ro-Ro;20;Exterior;E;56;1.753.456
+2019;201904;4;Car-carrier;21;Cabotatge;C;2;70.542
+2019;201904;4;Car-carrier;21;Exterior;E;34;1.574.462
+2019;201905;5;Tancs;11;Cabotatge;C;4;56.784
+2019;201905;5;Tancs;11;Exterior;E;88;1.444.374
+2019;201905;5;Granelers;12;Exterior;E;4;131.978
+2019;201905;5;Càrrega (Lo-Lo);13;Cabotatge;C;1;7.087
+2019;201905;5;Càrrega (Lo-Lo);13;Exterior;E;41;195.318
+2019;201905;5;Petroliers;14;Exterior;E;8;591.661
+2019;201905;5;Transbordadors;15;Cabotatge;C;181;4.754.151
+2019;201905;5;Transbordadors;15;Exterior;E;63;2.497.187
+2019;201905;5;Passatge;16;Cabotatge;C;14;877.178
+2019;201905;5;Passatge;16;Exterior;E;91;9.128.368
+2019;201905;5;Portacontenidors;17;Cabotatge;C;27;352.186
+2019;201905;5;Portacontenidors;17;Exterior;E;177;9.310.932
+2019;201905;5;Ro-Ro;20;Cabotatge;C;5;76.120
+2019;201905;5;Ro-Ro;20;Exterior;E;52;1.756.630
+2019;201905;5;Car-carrier;21;Cabotatge;C;1;33.831
+2019;201905;5;Car-carrier;21;Exterior;E;36;1.710.289
+2019;201906;6;Tancs;11;Cabotatge;C;4;71.936
+2019;201906;6;Tancs;11;Exterior;E;92;1.365.686
+2019;201906;6;Granelers;12;Exterior;E;9;250.081
+2019;201906;6;Càrrega (Lo-Lo);13;Cabotatge;C;2;14.174
+2019;201906;6;Càrrega (Lo-Lo);13;Exterior;E;42;161.098
+2019;201906;6;Petroliers;14;Exterior;E;7;550.035
+2019;201906;6;Transbordadors;15;Cabotatge;C;181;4.738.934
+2019;201906;6;Transbordadors;15;Exterior;E;75;2.907.960
+2019;201906;6;Passatge;16;Cabotatge;C;9;502.413
+2019;201906;6;Passatge;16;Exterior;E;67;7.882.003
+2019;201906;6;Portacontenidors;17;Cabotatge;C;21;215.644
+2019;201906;6;Portacontenidors;17;Exterior;E;168;8.521.840
+2019;201906;6;Ro-Ro;20;Cabotatge;C;8;108.960
+2019;201906;6;Ro-Ro;20;Exterior;E;48;1.513.406
+2019;201906;6;Car-carrier;21;Cabotatge;C;2;71.557
+2019;201906;6;Car-carrier;21;Exterior;E;35;1.757.047
+2019;201907;7;Tancs;11;Cabotatge;C;5;56.088
+2019;201907;7;Tancs;11;Exterior;E;75;969.077
+2019;201907;7;Granelers;12;Exterior;E;8;231.225
+2019;201907;7;Càrrega (Lo-Lo);13;Cabotatge;C;1;7.087
+2019;201907;7;Càrrega (Lo-Lo);13;Exterior;E;32;133.209
+2019;201907;7;Petroliers;14;Exterior;E;8;719.896
+2019;201907;7;Transbordadors;15;Cabotatge;C;223;5.542.826
+2019;201907;7;Transbordadors;15;Exterior;E;83;3.538.397
+2019;201907;7;Passatge;16;Cabotatge;C;9;819.478
+2019;201907;7;Passatge;16;Exterior;E;69;7.227.182
+2019;201907;7;Portacontenidors;17;Cabotatge;C;22;256.387
+2019;201907;7;Portacontenidors;17;Exterior;E;184;9.175.998
+2019;201907;7;Ro-Ro;20;Cabotatge;C;9;140.516
+2019;201907;7;Ro-Ro;20;Exterior;E;58;1.778.877
+2019;201907;7;Car-carrier;21;Exterior;E;40;1.865.622
+2019;201908;8;Tancs;11;Cabotatge;C;7;70.611
+2019;201908;8;Tancs;11;Exterior;E;95;1.543.725
+2019;201908;8;Granelers;12;Exterior;E;9;232.078
+2019;201908;8;Càrrega (Lo-Lo);13;Cabotatge;C;1;4.255
+2019;201908;8;Càrrega (Lo-Lo);13;Exterior;E;28;143.851
+2019;201908;8;Petroliers;14;Cabotatge;C;2;15.666
+2019;201908;8;Petroliers;14;Exterior;E;5;376.177
+2019;201908;8;Transbordadors;15;Cabotatge;C;238;5.685.722
+2019;201908;8;Transbordadors;15;Exterior;E;79;3.502.204
+2019;201908;8;Passatge;16;Cabotatge;C;11;881.683
+2019;201908;8;Passatge;16;Exterior;E;70;8.491.967
+2019;201908;8;Portacontenidors;17;Cabotatge;C;20;225.254
+2019;201908;8;Portacontenidors;17;Exterior;E;167;9.026.237
+2019;201908;8;Ro-Ro;20;Cabotatge;C;8;127.573
+2019;201908;8;Ro-Ro;20;Exterior;E;40;1.395.736
+2019;201908;8;Car-carrier;21;Cabotatge;C;1;16.361
+2019;201908;8;Car-carrier;21;Exterior;E;29;1.402.500
+2019;201909;9;Tancs;11;Cabotatge;C;8;65.385
+2019;201909;9;Tancs;11;Exterior;E;68;1.112.992
+2019;201909;9;Granelers;12;Exterior;E;7;236.651
+2019;201909;9;Càrrega (Lo-Lo);13;Cabotatge;C;3;16.500
+2019;201909;9;Càrrega (Lo-Lo);13;Exterior;E;46;174.089
+2019;201909;9;Petroliers;14;Exterior;E;8;745.243
+2019;201909;9;Transbordadors;15;Cabotatge;C;189;4.880.582
+2019;201909;9;Transbordadors;15;Exterior;E;80;3.480.900
+2019;201909;9;Passatge;16;Cabotatge;C;9;660.907
+2019;201909;9;Passatge;16;Exterior;E;83;9.335.881
+2019;201909;9;Portacontenidors;17;Cabotatge;C;19;213.874
+2019;201909;9;Portacontenidors;17;Exterior;E;179;8.970.436
+2019;201909;9;Ro-Ro;20;Cabotatge;C;6;95.906
+2019;201909;9;Ro-Ro;20;Exterior;E;38;1.212.428
+2019;201909;9;Car-carrier;21;Cabotatge;C;1;36.825
+2019;201909;9;Car-carrier;21;Exterior;E;34;1.653.350
+2019;201910;10;Tancs;11;Cabotatge;C;7;56.516
+2019;201910;10;Tancs;11;Exterior;E;75;1.073.885
+2019;201910;10;Granelers;12;Exterior;E;9;248.433
+2019;201910;10;Càrrega (Lo-Lo);13;Cabotatge;C;1;4.990
+2019;201910;10;Càrrega (Lo-Lo);13;Exterior;E;40;159.344
+2019;201910;10;Petroliers;14;Exterior;E;7;357.269
+2019;201910;10;Transbordadors;15;Cabotatge;C;181;4.772.343
+2019;201910;10;Transbordadors;15;Exterior;E;68;3.109.232
+2019;201910;10;Passatge;16;Cabotatge;C;12;660.740
+2019;201910;10;Passatge;16;Exterior;E;98;9.446.492
+2019;201910;10;Portacontenidors;17;Cabotatge;C;26;284.687
+2019;201910;10;Portacontenidors;17;Exterior;E;196;9.688.270
+2019;201910;10;Ro-Ro;20;Cabotatge;C;6;85.720
+2019;201910;10;Ro-Ro;20;Exterior;E;47;1.553.565
+2019;201910;10;Car-carrier;21;Exterior;E;37;1.831.003
+2019;201911;11;Tancs;11;Cabotatge;C;3;19.160
+2019;201911;11;Tancs;11;Exterior;E;59;844.863
+2019;201911;11;Granelers;12;Exterior;E;9;291.704
+2019;201911;11;Càrrega (Lo-Lo);13;Cabotatge;C;2;12.716
+2019;201911;11;Càrrega (Lo-Lo);13;Exterior;E;37;172.202
+2019;201911;11;Petroliers;14;Exterior;E;5;335.075
+2019;201911;11;Transbordadors;15;Cabotatge;C;167;4.364.103
+2019;201911;11;Transbordadors;15;Exterior;E;65;2.959.478
+2019;201911;11;Passatge;16;Cabotatge;C;13;846.198
+2019;201911;11;Passatge;16;Exterior;E;62;6.350.210
+2019;201911;11;Portacontenidors;17;Cabotatge;C;20;221.385
+2019;201911;11;Portacontenidors;17;Exterior;E;155;7.938.633
+2019;201911;11;Ro-Ro;20;Cabotatge;C;4;60.896
+2019;201911;11;Ro-Ro;20;Exterior;E;48;1.556.902
+2019;201911;11;Car-carrier;21;Cabotatge;C;1;36.825
+2019;201911;11;Car-carrier;21;Exterior;E;30;1.356.262
+2019;201912;12;Tancs;11;Cabotatge;C;4;47.479
+2019;201912;12;Tancs;11;Exterior;E;67;991.174
+2019;201912;12;Granelers;12;Exterior;E;8;217.960
+2019;201912;12;Càrrega (Lo-Lo);13;Cabotatge;C;2;12.144
+2019;201912;12;Càrrega (Lo-Lo);13;Exterior;E;49;227.565
+2019;201912;12;Petroliers;14;Exterior;E;6;410.044
+2019;201912;12;Transbordadors;15;Cabotatge;C;166;4.176.164
+2019;201912;12;Transbordadors;15;Exterior;E;66;2.922.042
+2019;201912;12;Passatge;16;Cabotatge;C;4;313.438
+2019;201912;12;Passatge;16;Exterior;E;18;2.174.247
+2019;201912;12;Portacontenidors;17;Cabotatge;C;17;190.123
+2019;201912;12;Portacontenidors;17;Exterior;E;164;8.193.452
+2019;201912;12;Ro-Ro;20;Cabotatge;C;4;60.896
+2019;201912;12;Ro-Ro;20;Exterior;E;50;1.607.089
+2019;201912;12;Car-carrier;21;Cabotatge;C;1;36.711
+2019;201912;12;Car-carrier;21;Exterior;E;33;1.594.466
+2020;202001;1;Tancs;11;Cabotatge;C;9;68509
+2020;202001;1;Tancs;11;Exterior;E;81;1052422
+2020;202001;1;Granelers;12;Exterior;E;9;241889
+2020;202001;1;CÃ rrega (Lo-Lo);13;Cabotatge;C;3;15167
+2020;202001;1;CÃ rrega (Lo-Lo);13;Exterior;E;38;183463
+2020;202001;1;Petroliers;14;Exterior;E;10;642871
+2020;202001;1;Transbordadors;15;Cabotatge;C;155;3843511
+2020;202001;1;Transbordadors;15;Exterior;E;57;2689694
+2020;202001;1;Passatge;16;Cabotatge;C;4;347855
+2020;202001;1;Passatge;16;Exterior;E;19;2355928
+2020;202001;1;Portacontenidors;17;Cabotatge;C;26;296118
+2020;202001;1;Portacontenidors;17;Exterior;E;150;8192549
+2020;202001;1;Ro-Ro;20;Cabotatge;C;4;60896
+2020;202001;1;Ro-Ro;20;Exterior;E;37;1222614
+2020;202001;1;Car-carrier;21;Cabotatge;C;1;37602
+2020;202001;1;Car-carrier;21;Exterior;E;37;1795904
+2020;202002;2;Tancs;11;Cabotatge;C;4;40516
+2020;202002;2;Tancs;11;Exterior;E;54;611662
+2020;202002;2;Granelers;12;Exterior;E;10;289013
+2020;202002;2;CÃ rrega (Lo-Lo);13;Cabotatge;C;2;12077
+2020;202002;2;CÃ rrega (Lo-Lo);13;Exterior;E;47;210126
+2020;202002;2;Petroliers;14;Cabotatge;C;1;13846
+2020;202002;2;Petroliers;14;Exterior;E;6;454406
+2020;202002;2;Transbordadors;15;Cabotatge;C;158;3987878
+2020;202002;2;Transbordadors;15;Exterior;E;62;2854597
+2020;202002;2;Passatge;16;Cabotatge;C;3;242134
+2020;202002;2;Passatge;16;Exterior;E;15;1978005
+2020;202002;2;Portacontenidors;17;Cabotatge;C;19;214191
+2020;202002;2;Portacontenidors;17;Exterior;E;156;7750815
+2020;202002;2;Ro-Ro;20;Cabotatge;C;4;60896
+2020;202002;2;Ro-Ro;20;Exterior;E;52;1658022
+2020;202002;2;Car-carrier;21;Exterior;E;35;1616490
+2020;202003;3;Tancs;11;Cabotatge;C;13;86165
+2020;202003;3;Tancs;11;Exterior;E;72;952870
+2020;202003;3;Granelers;12;Cabotatge;C;1;2625
+2020;202003;3;Granelers;12;Exterior;E;5;127078
+2020;202003;3;CÃ rrega (Lo-Lo);13;Cabotatge;C;2;10054
+2020;202003;3;CÃ rrega (Lo-Lo);13;Exterior;E;37;164305
+2020;202003;3;Petroliers;14;Exterior;E;8;599181
+2020;202003;3;Transbordadors;15;Cabotatge;C;138;3657303
+2020;202003;3;Transbordadors;15;Exterior;E;52;2498641
+2020;202003;3;Passatge;16;Cabotatge;C;4;479097
+2020;202003;3;Passatge;16;Exterior;E;6;873490
+2020;202003;3;Portacontenidors;17;Cabotatge;C;24;278318
+2020;202003;3;Portacontenidors;17;Exterior;E;152;6877273
+2020;202003;3;Ro-Ro;20;Cabotatge;C;4;60896
+2020;202003;3;Ro-Ro;20;Exterior;E;42;1399736
+2020;202003;3;Car-carrier;21;Exterior;E;34;1572368
+2020;202004;4;Tancs;11;Cabotatge;C;4;26063
+2020;202004;4;Tancs;11;Exterior;E;73;941397
+2020;202004;4;Granelers;12;Exterior;E;8;278000
+2020;202004;4;CÃ rrega (Lo-Lo);13;Cabotatge;C;1;5629
+2020;202004;4;CÃ rrega (Lo-Lo);13;Exterior;E;37;148686
+2020;202004;4;Petroliers;14;Cabotatge;C;1;13846
+2020;202004;4;Petroliers;14;Exterior;E;4;316951
+2020;202004;4;Transbordadors;15;Cabotatge;C;80;2018079
+2020;202004;4;Transbordadors;15;Exterior;E;34;1881557
+2020;202004;4;Passatge;16;Exterior;E;1;92720
+2020;202004;4;Portacontenidors;17;Cabotatge;C;25;256774
+2020;202004;4;Portacontenidors;17;Exterior;E;139;6992725
+2020;202004;4;Ro-Ro;20;Cabotatge;C;4;60896
+2020;202004;4;Ro-Ro;20;Exterior;E;29;976131
+2020;202004;4;Car-carrier;21;Exterior;E;13;720532
+2020;202005;5;Tancs;11;Cabotatge;C;2;27236
+2020;202005;5;Tancs;11;Exterior;E;68;933407
+2020;202005;5;Granelers;12;Cabotatge;C;1;2453
+2020;202005;5;Granelers;12;Exterior;E;6;195587
+2020;202005;5;CÃ rrega (Lo-Lo);13;Cabotatge;C;1;2998
+2020;202005;5;CÃ rrega (Lo-Lo);13;Exterior;E;40;190772
+2020;202005;5;Petroliers;14;Exterior;E;3;202197
+2020;202005;5;Transbordadors;15;Cabotatge;C;79;2020879
+2020;202005;5;Transbordadors;15;Exterior;E;34;1790186
+2020;202005;5;Passatge;16;Exterior;E;2;174458
+2020;202005;5;Portacontenidors;17;Cabotatge;C;19;206255
+2020;202005;5;Portacontenidors;17;Exterior;E;151;6817262
+2020;202005;5;Ro-Ro;20;Cabotatge;C;4;60896
+2020;202005;5;Ro-Ro;20;Exterior;E;36;1181063
+2020;202005;5;Car-carrier;21;Exterior;E;12;602807
+2020;202006;6;Tancs;11;Cabotatge;C;2;23870
+2020;202006;6;Tancs;11;Exterior;E;62;711637
+2020;202006;6;Granelers;12;Cabotatge;C;2;5896
+2020;202006;6;Granelers;12;Exterior;E;8;239368
+2020;202006;6;CÃ rrega (Lo-Lo);13;Cabotatge;C;2;10903
+2020;202006;6;CÃ rrega (Lo-Lo);13;Exterior;E;27;136050
+2020;202006;6;Petroliers;14;Exterior;E;5;441091
+2020;202006;6;Transbordadors;15;Cabotatge;C;105;2782521
+2020;202006;6;Transbordadors;15;Exterior;E;40;2061577
+2020;202006;6;Passatge;16;Exterior;E;3;176964
+2020;202006;6;Portacontenidors;17;Cabotatge;C;19;202748
+2020;202006;6;Portacontenidors;17;Exterior;E;156;6188298
+2020;202006;6;Ro-Ro;20;Cabotatge;C;4;60896
+2020;202006;6;Ro-Ro;20;Exterior;E;39;1230501
+2020;202006;6;Car-carrier;21;Exterior;E;17;802840
+2020;202007;7;Tancs;11;Cabotatge;C;8;86189
+2020;202007;7;Tancs;11;Exterior;E;63;834621
+2020;202007;7;Granelers;12;Exterior;E;4;132152
+2020;202007;7;CÃ rrega (Lo-Lo);13;Exterior;E;30;138863
+2020;202007;7;Petroliers;14;Exterior;E;8;764652
+2020;202007;7;Transbordadors;15;Cabotatge;C;184;5034510
+2020;202007;7;Transbordadors;15;Exterior;E;53;2620149
+2020;202007;7;Portacontenidors;17;Cabotatge;C;22;245346
+2020;202007;7;Portacontenidors;17;Exterior;E;159;6688164
+2020;202007;7;Ro-Ro;20;Cabotatge;C;9;146140
+2020;202007;7;Ro-Ro;20;Exterior;E;45;1513040
+2020;202007;7;Car-carrier;21;Exterior;E;23;1047387
+2020;202008;8;Tancs;11;Cabotatge;C;10;104252
+2020;202008;8;Tancs;11;Exterior;E;76;885302
+2020;202008;8;Granelers;12;Cabotatge;C;2;5896
+2020;202008;8;Granelers;12;Exterior;E;12;371098
+2020;202008;8;CÃ rrega (Lo-Lo);13;Cabotatge;C;3;17624
+2020;202008;8;CÃ rrega (Lo-Lo);13;Exterior;E;17;89142
+2020;202008;8;Petroliers;14;Exterior;E;5;466599
+2020;202008;8;Transbordadors;15;Cabotatge;C;189;5198556
+2020;202008;8;Transbordadors;15;Exterior;E;48;2388676
+2020;202008;8;Passatge;16;Exterior;E;5;296787
+2020;202008;8;Portacontenidors;17;Cabotatge;C;21;221974
+2020;202008;8;Portacontenidors;17;Exterior;E;159;7236862
+2020;202008;8;Ro-Ro;20;Cabotatge;C;6;102749
+2020;202008;8;Ro-Ro;20;Exterior;E;34;1170852
+2020;202008;8;Car-carrier;21;Exterior;E;22;1082100
+2020;202009;9;Tancs;11;Cabotatge;C;10;73755
+2020;202009;9;Tancs;11;Exterior;E;61;848861
+2020;202009;9;Granelers;12;Cabotatge;C;1;5164
+2020;202009;9;Granelers;12;Exterior;E;4;125939
+2020;202009;9;CÃ rrega (Lo-Lo);13;Cabotatge;C;6;35797
+2020;202009;9;CÃ rrega (Lo-Lo);13;Exterior;E;26;107099
+2020;202009;9;Petroliers;14;Exterior;E;7;557807
+2020;202009;9;Transbordadors;15;Cabotatge;C;160;4107036
+2020;202009;9;Transbordadors;15;Exterior;E;44;2256436
+2020;202009;9;Passatge;16;Exterior;E;3;207293
+2020;202009;9;Portacontenidors;17;Cabotatge;C;21;238469
+2020;202009;9;Portacontenidors;17;Exterior;E;154;6766737
+2020;202009;9;Ro-Ro;20;Cabotatge;C;6;95906
+2020;202009;9;Ro-Ro;20;Exterior;E;39;1263859
+2020;202009;9;Car-carrier;21;Exterior;E;24;1091985
+2020;202010;10;Tancs;11;Cabotatge;C;7;56476
+2020;202010;10;Tancs;11;Exterior;E;68;923068
+2020;202010;10;Granelers;12;Cabotatge;C;1;3271
+2020;202010;10;Granelers;12;Exterior;E;7;201234
+2020;202010;10;CÃ rrega (Lo-Lo);13;Cabotatge;C;1;4358
+2020;202010;10;CÃ rrega (Lo-Lo);13;Exterior;E;42;179715
+2020;202010;10;Petroliers;14;Exterior;E;7;391440
+2020;202010;10;Transbordadors;15;Cabotatge;C;106;2836174
+2020;202010;10;Transbordadors;15;Exterior;E;37;2045935
+2020;202010;10;Passatge;16;Exterior;E;3;73443
+2020;202010;10;Portacontenidors;17;Cabotatge;C;21;253357
+2020;202010;10;Portacontenidors;17;Exterior;E;179;8286629
+2020;202010;10;Ro-Ro;20;Cabotatge;C;5;76120
+2020;202010;10;Ro-Ro;20;Exterior;E;54;1729177
+2020;202010;10;Car-carrier;21;Exterior;E;26;1120479
+2020;202011;11;Tancs;11;Cabotatge;C;4;76638
+2020;202011;11;Tancs;11;Exterior;E;72;937463
+2020;202011;11;Granelers;12;Exterior;E;9;302389
+2020;202011;11;CÃ rrega (Lo-Lo);13;Cabotatge;C;1;5574
+2020;202011;11;CÃ rrega (Lo-Lo);13;Exterior;E;40;187583
+2020;202011;11;Petroliers;14;Exterior;E;4;181586
+2020;202011;11;Transbordadors;15;Cabotatge;C;97;2375708
+2020;202011;11;Transbordadors;15;Exterior;E;36;1796095
+2020;202011;11;Passatge;16;Exterior;E;3;51651
+2020;202011;11;Portacontenidors;17;Cabotatge;C;23;266176
+2020;202011;11;Portacontenidors;17;Exterior;E;175;9121539
+2020;202011;11;Ro-Ro;20;Cabotatge;C;5;76120
+2020;202011;11;Ro-Ro;20;Exterior;E;55;1814193
+2020;202011;11;Car-carrier;21;Cabotatge;C;1;36711
+2020;202011;11;Car-carrier;21;Exterior;E;28;1153764
+2020;202012;12;Tancs;11;Cabotatge;C;8;77718
+2020;202012;12;Tancs;11;Exterior;E;74;979781
+2020;202012;12;Granelers;12;Cabotatge;C;1;2625
+2020;202012;12;Granelers;12;Exterior;E;9;213992
+2020;202012;12;CÃ rrega (Lo-Lo);13;Cabotatge;C;3;16680
+2020;202012;12;CÃ rrega (Lo-Lo);13;Exterior;E;43;220838
+2020;202012;12;Petroliers;14;Exterior;E;6;432699
+2020;202012;12;Transbordadors;15;Cabotatge;C;105;2740472
+2020;202012;12;Transbordadors;15;Exterior;E;31;1703196
+2020;202012;12;Portacontenidors;17;Cabotatge;C;23;261510
+2020;202012;12;Portacontenidors;17;Exterior;E;171;8025211
+2020;202012;12;Ro-Ro;20;Cabotatge;C;4;60896
+2020;202012;12;Ro-Ro;20;Exterior;E;52;1919130
+2020;202012;12;Car-carrier;21;Cabotatge;C;1;37602
+2020;202012;12;Car-carrier;21;Exterior;E;27;1252813
+2021;202101;1;Tancs;11;Cabotatge;C;7;50753
+2021;202101;1;Tancs;11;Exterior;E;63;738036
+2021;202101;1;Granelers;12;Cabotatge;C;1;2625
+2021;202101;1;Granelers;12;Exterior;E;8;228323
+2021;202101;1;CÃ rrega (Lo-Lo);13;Cabotatge;C;3;17566
+2021;202101;1;CÃ rrega (Lo-Lo);13;Exterior;E;30;124412
+2021;202101;1;Petroliers;14;Exterior;E;8;388132
+2021;202101;1;Transbordadors;15;Cabotatge;C;101;2591958
+2021;202101;1;Transbordadors;15;Exterior;E;32;1736532
+2021;202101;1;Passatge;16;Exterior;E;2;196791
+2021;202101;1;Portacontenidors;17;Cabotatge;C;19;271713
+2021;202101;1;Portacontenidors;17;Exterior;E;158;7821746
+2021;202101;1;Ro-Ro;20;Cabotatge;C;4;60896
+2021;202101;1;Ro-Ro;20;Exterior;E;43;1501416
+2021;202101;1;Car-carrier;21;Cabotatge;C;1;36825
+2021;202101;1;Car-carrier;21;Exterior;E;26;1250636
+2021;202102;2;Tancs;11;Cabotatge;C;6;76811
+2021;202102;2;Tancs;11;Exterior;E;76;1049319
+2021;202102;2;Granelers;12;Exterior;E;8;246210
+2021;202102;2;CÃ rrega (Lo-Lo);13;Cabotatge;C;1;3911
+2021;202102;2;CÃ rrega (Lo-Lo);13;Exterior;E;24;89827
+2021;202102;2;Petroliers;14;Exterior;E;2;11337
+2021;202102;2;Transbordadors;15;Cabotatge;C;97;2477803
+2021;202102;2;Transbordadors;15;Exterior;E;24;1529808
+2021;202102;2;Passatge;16;Cabotatge;C;1;181808
+2021;202102;2;Portacontenidors;17;Cabotatge;C;21;295843
+2021;202102;2;Portacontenidors;17;Exterior;E;158;7183619
+2021;202102;2;Ro-Ro;20;Cabotatge;C;4;60896
+2021;202102;2;Ro-Ro;20;Exterior;E;54;2139556
+2021;202102;2;Car-carrier;21;Exterior;E;28;1343489
+2021;202103;3;Tancs;11;Cabotatge;C;4;38436
+2021;202103;3;Tancs;11;Exterior;E;65;1058803
+2021;202103;3;Granelers;12;Cabotatge;C;1;35832
+2021;202103;3;Granelers;12;Exterior;E;7;209090
+2021;202103;3;CÃ rrega (Lo-Lo);13;Exterior;E;35;175387
+2021;202103;3;Petroliers;14;Exterior;E;4;133066
+2021;202103;3;Transbordadors;15;Cabotatge;C;116;2847666
+2021;202103;3;Transbordadors;15;Exterior;E;26;1657292
+2021;202103;3;Passatge;16;Cabotatge;C;2;363616
+2021;202103;3;Passatge;16;Exterior;E;1;14983
+2021;202103;3;Portacontenidors;17;Cabotatge;C;23;259310
+2021;202103;3;Portacontenidors;17;Exterior;E;160;6859281
+2021;202103;3;Ro-Ro;20;Cabotatge;C;4;60896
+2021;202103;3;Ro-Ro;20;Exterior;E;60;2869542
+2021;202103;3;Car-carrier;21;Exterior;E;29;1295051
+2021;202104;4;Tancs;11;Cabotatge;C;9;105115
+2021;202104;4;Tancs;11;Exterior;E;61;735436
+2021;202104;4;Granelers;12;Exterior;E;9;294275
+2021;202104;4;CÃ rrega (Lo-Lo);13;Cabotatge;C;2;14174
+2021;202104;4;CÃ rrega (Lo-Lo);13;Exterior;E;34;178776
+2021;202104;4;Petroliers;14;Exterior;E;5;302543
+2021;202104;4;Transbordadors;15;Cabotatge;C;110;2886945
+2021;202104;4;Transbordadors;15;Exterior;E;25;1556724
+2021;202104;4;Passatge;16;Cabotatge;C;1;181808
+2021;202104;4;Passatge;16;Exterior;E;1;39444
+2021;202104;4;Portacontenidors;17;Cabotatge;C;23;266189
+2021;202104;4;Portacontenidors;17;Exterior;E;164;7183195
+2021;202104;4;Ro-Ro;20;Cabotatge;C;9;146140
+2021;202104;4;Ro-Ro;20;Exterior;E;51;2458196
+2021;202104;4;Car-carrier;21;Exterior;E;25;1125328
+2021;202105;5;Tancs;11;Cabotatge;C;1;5451
+2021;202105;5;Tancs;11;Exterior;E;24;471161
+2021;202105;5;Granelers;12;Cabotatge;C;1;2625
+2021;202105;5;Granelers;12;Exterior;E;2;53915
+2021;202105;5;CÃ rrega (Lo-Lo);13;Cabotatge;C;1;3911
+2021;202105;5;CÃ rrega (Lo-Lo);13;Exterior;E;16;123258
+2021;202105;5;Petroliers;14;Exterior;E;3;227442
+2021;202105;5;Transbordadors;15;Cabotatge;C;49;1254461
+2021;202105;5;Transbordadors;15;Exterior;E;12;764904
+2021;202105;5;Portacontenidors;17;Cabotatge;C;10;114895
+2021;202105;5;Portacontenidors;17;Exterior;E;73;3080683
+2021;202105;5;Ro-Ro;20;Cabotatge;C;6;100468
+2021;202105;5;Ro-Ro;20;Exterior;E;27;1248286
+2021;202105;5;Car-carrier;21;Exterior;E;13;641489
