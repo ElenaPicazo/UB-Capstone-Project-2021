@@ -65,6 +65,47 @@ COVID-19 data: Barcelona city or province?
 - PCR: number of people who have taken a PCR test
 - TAR: number of people who have taken a COVID-19 test different form PCR
 
+## Gathering and Cleaning Data
+
+- COVID-19 Data
+
+We contacted the Generalitat to get the main and more deagreggate information of the COVID-19 pandemic in Barcelona, such as confirmed cases, vaccinations, PCR's, etc. 
+
+First, we upload the COVID-19 information from https://aquas.gencat.cat/ca/actualitat/ultimes-dades-coronavirus. This dataset contains information about COVID-19 infections, PCRs, vaccination, etc.
+
+We will consider only the data refering to the city of Barcelona. The data are originally provided at a daily basis and higly dissagregated by: 
+
+*   Sex: Male, Female
+*   Age group: <15, 15-64, 65-74 >75
+* General & Elderly residences COVID-19 cases
+* "Area Integral de Salut": Barcelona Esquerra, Barcelona Litoral-Mar, Barcelona Dreta & Barcelona Nord
+
+- Tourism Data
+
+The source for tourism data in Barcelona ("zona turística" Cataluña:Barcelona") is Instituto Nacional de Estadística (INE):
+- For hotels: https://www.ine.es/dynt3/inebase/index.htm?padre=238&capsel=238
+- For tourist apartaments: https://www.ine.es/dynt3/inebase/index.htm?padre=231&capsel=231
+
+For rural apartaments and camping sites, there is no tourism data specifically for Barcelona. Therefore, we only consider information from travelers with at least one overnight stay in a hotel and tourist apartment in Barcelona.
+
+- Transportation and others
+
+In this section we upload the main information about planes, cruises and others source of information that might help us understand the behaviour of the travelers like google trends and unemployment rate.
+
+**Transportation:**
+
+*   Passengers: https://ec.europa.eu/
+*   Planes and aircrafts: https://www.mitma.gob.es/aereo
+*   Cruises and ships: https://opendata.portdebarcelona.cat/
+
+**Others**
+
+Other variables that might help us are Google Trends (a website by Google that analyzes the popularity of top search queries in Google Search across various regions and languages. The website uses graphs to compare the search volume of different queries over time), Barcelona's mean temperatures and the unemployment rate.
+
+*   Google trends: https://trends.google.es/trends/
+*   Mean temperatures: https://datosclima.es/Aemethistorico/Meteostation.php
+*   Unemployment rate: https://www.epdata.es/
+
 ## Explanatory Analysis
 
 ### COVID-19 Data
@@ -78,6 +119,10 @@ In this section we will look at how the disease has spread in Barcelona and the 
 ### Dependent Variable
 
 Since we are under a forecasting task with time series data, we should expect patterns of seasonality and/or trends, especially for our tourism data. In facr, our dependent variable shows seasonality and trend patterns. It is reasonable to believe that "Viajeros_Tot" has a seasonality pattern because the number of visitors usually increase from spring to summer months. The positive trend might imply that Barcelona becomes more and more popular amongst tourists and, therefore, it receives every year an increase of visitors.
+
+### Main Correlations
+
+We create three different correlation matrices. We believe features do not influence our dependent variable in the same way with the presence of COVID-19 data. Moreover, we check the correlation between the variables to see if we should drop some of them.
 
 ## Models and Scenarios
 
