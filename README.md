@@ -80,6 +80,12 @@ We will consider only the data refering to the city of Barcelona. The data are o
 * General & Elderly residences COVID-19 cases
 * "Area Integral de Salut": Barcelona Esquerra, Barcelona Litoral-Mar, Barcelona Dreta & Barcelona Nord
 
+We create two additional aggregated databases, at weekly and monthly basis, to make them complatible with the following databases of tourist information. In addition we:
+
+*   Agregate COV-19 cases by sex and age group
+*   We remove COVID-19 cases in elderly residences, as they do not contribute to tourism in the city of Barcelona
+* We remove COVID-19 cases of the "Area Integral de Salut Barcelona Nord" as this area is not contributuing much to the tourist activity in the city of Barcelona.
+
 **Tourism Data**
 
 The source for tourism data in Barcelona ("zona turística" Cataluña:Barcelona") is Instituto Nacional de Estadística (INE):
