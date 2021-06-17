@@ -1,6 +1,6 @@
      Carlos López-Martínez, Ignacio Matías Montorfano, Elena Picazo Gurina, Adrià Valls Sánchez.
 
-# UB Capstone Project 2021 - Forecast Tourism in Barcelona 2021
+# Forecast Tourism in Barcelona 2021
 
 For this project, we will do an exploratory analysis of the variables that affect tourism regulary and data from the COVID-19 pandemic. We will develop different predictive models to make a prediction on the number of tourists that arrive to Barcelona on 2020 (year of the pandemic). We will also compare our predictions with the real values.
 
@@ -83,9 +83,34 @@ Since we are under a forecasting task with time series data, we should expect pa
 
 All the different models try to forecast the number of visitors in Barcelona for 2020-2021.
 - Simple Linear Regression
+
+Simple linear regression is a linear regression model with a single explanatory variable. That is, it concerns two-dimensional sample points with one independent variable and one dependent variable and finds a linear function (a non-vertical straight line) that, as accurately as possible, predicts the dependent variable values as a function of the independent variable. The adjective simple refers to the fact that the outcome variable is related to a single predictor.
+
+We will try this model to understand the data behavior and after this, try other models and add more variables to it.
+
 - Multiple Linear Regression
+
+The use of Multiple Linear Regression tries to exploit multiple variables that where included in the Database we generated to see their relation with the total number of travelers in Barcelona. First, we will consider a model for the Non COVID-19 period from 2105 to 2019, using from 2015 to 2017 as training and 2018 and 2019 as validation of the predicted model. We consider also the extension to a polynomial regresion algorithm of order 3.
+
 - Random Forest
+
+In order to use Random Forest algorithm, we first convert our time series dataset to a matrix of pairs of input and output sequences. Once this transformation is done, we will be able under a supervised learning problem.
+
+For this section, we decided to drop variables relating to whether tourist establishments are open or not ('HOTELES ABIERTOS', 'APARTAMENTOS DISPONIBLES'). The algorithm might interpret that these variables have a positive effect on "Viajeros_Tot". But, during lockdown periods, many tourist establishments were open but without any visitors. Therefore, it is appropiate to exclude them from the task.
+
 - SARIMA
+
+A SARIMA model can be understood by outlining each of its components as follows:
+
+*   Seasonality (S): represents the seasonality of the series.
+*   Autoregression (AR): refers to a model that shows a changing variable that regresses on its own lagged, or prior, values.
+*   Integrated (I): represents the differencing of raw observations to allow for the time series to become stationary (i.e., data values are replaced by the difference between the data values and the previous values).
+*   Moving average (MA):  incorporates the dependency between an observation and a residual error from a moving average model applied to lagged observations.
+
+Key points:
+- SARIMA models predict future values based on past values.
+- SARIMA makes use of lagged moving averages to smooth time series data.
+- Autoregressive models implicitly assume that the future will resemble the past. Therefore, they can prove inaccurate under certain conditions, such as crisis or periods of rapid change.
 
 ## Conclusions
 
