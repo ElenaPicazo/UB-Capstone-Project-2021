@@ -67,7 +67,7 @@ COVID-19 data: Barcelona city or province?
 
 ## Gathering and Cleaning Data
 
-- COVID-19 Data
+**COVID-19 Data**
 
 We contacted the Generalitat to get the main and more deagreggate information of the COVID-19 pandemic in Barcelona, such as confirmed cases, vaccinations, PCR's, etc. 
 
@@ -80,7 +80,7 @@ We will consider only the data refering to the city of Barcelona. The data are o
 * General & Elderly residences COVID-19 cases
 * "Area Integral de Salut": Barcelona Esquerra, Barcelona Litoral-Mar, Barcelona Dreta & Barcelona Nord
 
-- Tourism Data
+**Tourism Data**
 
 The source for tourism data in Barcelona ("zona turística" Cataluña:Barcelona") is Instituto Nacional de Estadística (INE):
 - For hotels: https://www.ine.es/dynt3/inebase/index.htm?padre=238&capsel=238
@@ -88,17 +88,17 @@ The source for tourism data in Barcelona ("zona turística" Cataluña:Barcelona"
 
 For rural apartaments and camping sites, there is no tourism data specifically for Barcelona. Therefore, we only consider information from travelers with at least one overnight stay in a hotel and tourist apartment in Barcelona.
 
-- Transportation and others
+**Transportation and others**
 
 In this section we upload the main information about planes, cruises and others source of information that might help us understand the behaviour of the travelers like google trends and unemployment rate.
 
-**Transportation:**
+- Transportation:
 
-*   Passengers: https://ec.europa.eu/
-*   Planes and aircrafts: https://www.mitma.gob.es/aereo
-*   Cruises and ships: https://opendata.portdebarcelona.cat/
+     *   Passengers: https://ec.europa.eu/
+     *   Planes and aircrafts: https://www.mitma.gob.es/aereo
+     *   Cruises and ships: https://opendata.portdebarcelona.cat/
 
-**Others**
+- Others
 
 Other variables that might help us are Google Trends (a website by Google that analyzes the popularity of top search queries in Google Search across various regions and languages. The website uses graphs to compare the search volume of different queries over time), Barcelona's mean temperatures and the unemployment rate.
 
