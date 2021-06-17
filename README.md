@@ -67,7 +67,7 @@ COVID-19 data: Barcelona city or province?
 
 ## Explanatory Analysis
 
-### COVID-19 
+### COVID-19 Data
 
 COVID-19 is a disease with origin in China. It is a new virus linked to the same family of viruses as Severe Acute Respiratory Syndrome (SARS) and some types of common cold. 
 
@@ -139,4 +139,4 @@ On the other hand, with this larger dataset we could try to train a Long Short-t
 
 Predict Number of Visitors in Barcelona for 2020-2021.
 
-                                          Carlos López-Martínez, Ignacio Matías Montorfano, Elena Picazo Gurina, Adrià Valls Sánchez.
+     Carlos López-Martínez, Ignacio Matías Montorfano, Elena Picazo Gurina, Adrià Valls Sánchez.
