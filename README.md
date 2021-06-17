@@ -1,3 +1,5 @@
+     Carlos López-Martínez, Ignacio Matías Montorfano, Elena Picazo Gurina, Adrià Valls Sánchez.
+
 # UB Capstone Project 2021
 
 For this project, we will do an exploratory analysis of the variables that affect tourism regulary and data from the COVID-19 pandemic. We will develop different predictive models to make a prediction on the number of tourists that arrive to Barcelona on 2020 (year of the pandemic). We will also compare our predictions with the real values.
@@ -132,8 +134,6 @@ The main limitation for both SARIMA and Random Forest algorithms is the size of 
 For the case of Random Forest, the training set would have a wider range of values and the model would predict values closer to the expected ones. Moreover, the effect of missing values would be smaller. We could also add other variables related to COVID-19 but with lesss missing values.
 
 On the other hand, with this larger dataset we could try to train a Long Short-term Memory (LSTM) model or try to use SARIMAX (with an exogenous variable) to see how they behave
-
-     Carlos López-Martínez, Ignacio Matías Montorfano, Elena Picazo Gurina, Adrià Valls Sánchez.
      
 ## Appendix: Sources and papers
 
