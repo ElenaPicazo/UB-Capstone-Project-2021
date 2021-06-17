@@ -19,8 +19,6 @@ We use different real datasets from different sources:
 - OpenData Port Barcelona
 - Google trends
 
----
-
 **Variables**
 
 All the variables that we collected from different sources are for Barcelona city, except for "Nº total de parados en España".
@@ -136,3 +134,31 @@ For the case of Random Forest, the training set would have a wider range of valu
 On the other hand, with this larger dataset we could try to train a Long Short-term Memory (LSTM) model or try to use SARIMAX (with an exogenous variable) to see how they behave
 
      Carlos López-Martínez, Ignacio Matías Montorfano, Elena Picazo Gurina, Adrià Valls Sánchez.
+     
+## Appendix: Sources and papers
+
+*   Impact of COVID-19 on the travel and tourism industry: https://www.researchgate.net/profile/Malgorzata-Porada-Rochon/publication/346914362_Impact_of_COVID-19_on_the_travel_and_tourism_industry/links/600ffb55299bf14088c0e545/Impact-of-COVID-19-on-the-travel-and-tourism-industry.pdf
+*   Predicting tourism trends with Google Insights
+https://www.researchgate.net/publication/265201229_Predicting_tourism_trends_with_Google_Insights
+
+*   Forecasting Tourist Arrivals via Random Forest and Long Short-term Memory https://www.researchgate.net/publication/342451405_Forecasting_Tourist_Arrivals_via_Random_Forest_and_Long_Short-term_Memory
+*   Big Data as Input for Predicting Tourist Arrivals:
+https://www.researchgate.net/publication/312416184_Big_Data_as_Input_for_Predicting_Tourist_Arrivals
+
+*   Seasonal and Trend Forecasting of Tourist Arrivals: An Adaptive Multiscale Ensemble Learning Approach
+https://arxiv.org/ftp/arxiv/papers/2002/2002.08021.pdf
+
+*   Cruises and ferrys to Barcelona:
+https://opendata.portdebarcelona.cat/en/dataset/estadistiques-de-trfic-de-vaixells
+
+*   COVID-19 Data: https://aquas.gencat.cat/ca/actualitat/ultimes-dades-coronavirus
+*   Hotels and tourists data:
+https://www.ine.es/jaxiT3/Tabla.htm?t=2039&L=0
+*   Passengers: https://ec.europa.eu/
+*   Planes and aircrafts: https://www.mitma.gob.es/aereo
+
+*   Google trends: https://trends.google.es/trends/
+*   Mean temperatures: https://datosclima.es/Aemethistorico/Meteostation.php
+*   Unemployment rate: https://www.epdata.es/
+
+
